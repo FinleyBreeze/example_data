@@ -1,0 +1,1001 @@
+,PatID,Age,Gender,Deprivation,Ethnicity,Clinic,Referrer,Name,diag_id,Diagnosis,med_id,Medication,LogMAR VA,IOP,CD_ratio
+0,VWV07884T8,12,Male,9.0,Maori,Gen,Optometrist,Lance Hardee,77075001,POAG,386926002,Latanoprost,-0.2,17,0.6
+1,SFL27035D3,76,Female,1.0,European,Gen,Optometrist,Elizabeth Llamas,77075001,POAG,785427001,Combigan,-0.2,19,0.3
+2,HSN17856Q7,49,Female,8.0,European,Gen,GP Referral,Pamela Kabel,77075001,POAG,778547001,Brimonidine,-0.2,20,0.8
+3,XMQ15308K7,50,Female,6.0,European,Gen,Internal,Ellen Flynn,77075001,POAG,785427001,Combigan,-0.1,21,0.2
+4,PJR66984H9,69,Female,4.0,Indian,Minor_ops,Optometrist,Andrea Wolfe,77075001,POAG,409276006,Betaxolol,-0.1,21,0.7
+5,XSB08184X8,1,Female,4.0,Maori,Gen,GP Referral,Ashley Barnes,77075001,POAG,129492005,Bimatoprost,-0.1,21,0.6
+6,PZF35456R5,69,Female,2.0,European,Gen,Optometrist,Karen Allen,77075001,POAG,409276006,Betaxolol,-0.1,19,0.6
+7,DIE59323Z6,42,Female,8.0,Other Asian,Gen,Internal,Alice Toscano,77075001,POAG,778547001,Brimonidine,-0.1,19,0.3
+8,JIW33056G5,73,Female,7.0,European,Gen,Internal,Stephanie Bunn,77075001,POAG,409276006,Betaxolol,-0.1,18,0.5
+9,XPO84469Y4,1,Female,10.0,Maori,Orthoptist,Internal,Michele Ramsey,77075001,POAG,129492005,Bimatoprost,-0.1,19,0.8
+10,SBZ00572F8,88,Female,5.0,European,Gen,Internal,Gretchen Bierlein,77075001,POAG,780636007,Timolol,-0.1,20,0.4
+11,PPH17617E7,48,Female,7.0,European,Gen,GP Referral,Christina Fejes,77075001,POAG,785427001,Combigan,-0.1,19,0.5
+12,ZTV06772T8,44,Female,3.0,European,Gen,Internal,Ella Shelton,77075001,POAG,409276006,Betaxolol,-0.1,18,1.0
+13,ZJY80156S4,79,Male,6.0,European,Gen,Internal,Norman Torres,77075001,POAG,409276006,Betaxolol,-0.1,19,1.0
+14,NJS81517C4,70,Male,6.0,European,Gen,Specialist Rooms,Jeffery Gibbs,77075001,POAG,386926002,Latanoprost,-0.1,19,0.6
+15,JCT18117B7,78,Male,9.0,European,Gen,Internal,Timothy Elliott,77075001,POAG,780636007,Timolol,-0.1,20,0.3
+16,ZJW06723G8,30,Male,9.0,European,Gen,GP Referral,Tim Shults,77075001,POAG,780636007,Timolol,-0.1,20,0.7
+17,VZC58869A6,5,Male,8.0,Maori,Orthoptist,Plunket,Benjamin Harris,77075001,POAG,785427001,Combigan,-0.1,20,0.7
+18,MCG54135W6,28,Male,10.0,Maori,Gen,Internal,Paul Philipps,77075001,POAG,785427001,Combigan,-0.1,18,0.4
+19,FMM69869J9,73,Female,6.0,European,Gen,Optometrist,Melody Scott,77075001,POAG,409276006,Betaxolol,-0.1,19,0.7
+20,VPB81256X4,9,Female,6.0,European,Optometrist,Specialist Rooms,Nancy Walker,77075001,POAG,129493000,Travoprost,-0.1,21,0.3
+21,YYV64656T9,10,Male,5.0,Maori,Gen,GP Referral,Sebastian Barbera,77075001,POAG,129492005,Bimatoprost,-0.1,19,0.3
+22,HWR78041H2,63,Female,10.0,Maori,Gen,Optometrist,Lisa Lico,77075001,POAG,129492005,Bimatoprost,-0.1,18,0.4
+23,SFZ69984F9,86,Female,1.0,European,Gen,Optometrist,Vera Chamberlain,77075001,POAG,418934007,Levobunolol,-0.1,20,0.4
+24,NVI62769P9,55,Female,9.0,European,Gen,Optometrist,Jennifer Wheeler,77075001,POAG,785427001,Combigan,-0.1,20,1.0
+25,SEF73723R2,62,Female,8.0,European,Gen,GP Referral,Mary Carroll,77075001,POAG,129492005,Bimatoprost,-0.1,20,1.0
+26,HNW72117G2,31,Male,10.0,European,Gen,Optometrist,Kyle Rose,77075001,POAG,778547001,Brimonidine,-0.1,19,0.4
+27,JZQ60641K9,81,Male,9.0,European,Gen,GP Referral,John Smith,77075001,POAG,386926002,Latanoprost,-0.1,21,0.2
+28,USH88990E4,88,Male,8.0,European,Gen,Optometrist,Francis Sugar,77075001,POAG,129493000,Travoprost,-0.1,21,0.9
+29,LRY21817S3,51,Female,6.0,European,Gen,Other DHB,Mark Allen,77075001,POAG,129493000,Travoprost,-0.1,20,0.9
+30,LEH54308E6,89,Female,10.0,European,Gen,GP Referral,Carolyn Weaver,77075001,POAG,129493000,Travoprost,0.0,19,0.3
+31,JBD03635U8,53,Female,9.0,Pasifika,Optometrist,Internal,Kerry Smith,77075001,POAG,778547001,Brimonidine,0.0,19,0.9
+32,NLZ13917F7,46,Female,6.0,Other Asian,Gen,GP Referral,Leigh Reynoso,77075001,POAG,409276006,Betaxolol,0.0,21,0.5
+33,XEG43284W1,3,Female,1.0,European,Orthoptist,GP Referral,Lindsay Newcomb,77075001,POAG,129492005,Bimatoprost,0.0,19,0.3
+34,DID00317U8,2,Female,8.0,European,Gen,Other DHB,Liza Heath,77075001,POAG,386926002,Latanoprost,0.0,21,0.3
+35,JHT93684B0,74,Female,2.0,European,Gen,Self Referral,Deborah Prichard,77075001,POAG,129493000,Travoprost,0.0,21,0.7
+36,VMR58369H6,8,Male,1.0,European,Gen,GP Referral,Richard Milam,77075001,POAG,129493000,Travoprost,0.0,18,0.7
+37,VMC25290A3,7,Male,3.0,European,Optometrist,Internal,Ricky Simone,77075001,POAG,785427001,Combigan,0.0,19,0.4
+38,LWR78541H2,51,Female,10.0,European,Optometrist,Internal,Marie Raab,77075001,POAG,129493000,Travoprost,0.0,19,0.8
+39,GOB18741X7,0,Male,8.0,Maori,Gen,Internal,John Lopez,77075001,POAG,785427001,Combigan,0.0,19,0.8
+40,NIG76169W2,41,Male,1.0,Maori,Gen,Optometrist,Pedro Puffinberger,77075001,POAG,409276006,Betaxolol,0.0,20,0.6
+41,VSL89556D4,13,Male,6.0,European,Gen,Optometrist,Nicholas Santana,77075001,POAG,409276006,Betaxolol,0.0,18,0.4
+42,ULO50141Y6,62,Female,10.0,European,Gen,Internal,Michelle Feldman,77075001,POAG,129492005,Bimatoprost,0.0,21,1.0
+43,WNU94072M0,79,Male,5.0,Maori,Gen,Optometrist,Kenneth Cross,77075001,POAG,409276006,Betaxolol,0.0,24,0.6
+44,PWB19523X7,38,Male,1.0,European,Gen,GP Referral,Richard Kennamore,77075001,POAG,409276006,Betaxolol,0.0,20,0.3
+45,LMT13784B7,58,Male,10.0,Maori,Gen,Optometrist,Lloyd Gee,77075001,POAG,386926002,Latanoprost,0.0,20,0.2
+46,HQE38123Z5,85,Female,8.0,European,Gen,GP Referral,Lillie Valdes,77075001,POAG,129492005,Bimatoprost,0.0,19,0.5
+47,PIM37184J5,74,Male,6.0,European,Gen,Optometrist,Lucas Roll,77075001,POAG,129493000,Travoprost,0.0,21,0.2
+48,TIG64235W9,40,Female,8.0,European,Gen,Optometrist,Natasha Limones,77075001,POAG,785427001,Combigan,0.0,19,0.3
+49,PNR05141H8,75,Male,9.0,Chinese,Gen,GP Referral,Angelo Trimble,77075001,POAG,129493000,Travoprost,0.0,21,0.7
+50,HJL75072D2,76,Male,9.0,European,Gen,GP Referral,James Cunha,77075001,POAG,409276006,Betaxolol,0.0,18,1.0
+51,TUN71369Q2,75,Male,8.0,European,Gen,Optometrist,Edward Perez,77075001,POAG,780636007,Timolol,0.0,21,0.4
+52,UPO07523Y8,64,Female,7.0,European,Gen,Optometrist,Candace Coombs,77075001,POAG,780636007,Timolol,0.0,20,0.4
+53,HSC77741A2,75,Male,9.0,Maori,Gen,Optometrist,Eric Bligen,77075001,POAG,129492005,Bimatoprost,0.0,19,0.9
+54,XGT92708B0,6,Female,10.0,European,Gen,GP Referral,Leslie Arnold,77075001,POAG,129493000,Travoprost,0.0,21,0.8
+55,FCS46941C1,79,Male,6.0,European,Gen,Specialist Rooms,Billy Person,77075001,POAG,778547001,Brimonidine,0.0,20,0.4
+56,JCC61508A9,28,Male,8.0,European,Laser,Optometrist,Steve Noble,77075001,POAG,418934007,Levobunolol,0.0,18,0.7
+57,DDZ71541F2,4,Male,9.0,Maori,Optometrist,Other Referral Source,Harry Lampert,77075001,POAG,386926002,Latanoprost,0.0,20,0.3
+58,ZYX43017V1,83,Male,10.0,European,Gen,Internal,Gustavo Nicks,77075001,POAG,386926002,Latanoprost,0.0,19,0.4
+59,HOO19617Y7,72,Female,3.0,European,Optometrist,Specialist Rooms,Dorothy Dills,77075001,POAG,129492005,Bimatoprost,0.0,19,0.8
+60,HOV20735T3,69,Female,10.0,Maori,Gen,Optometrist,Tammy Camden,77075001,POAG,386926002,Latanoprost,0.0,20,0.4
+61,PWG89569W4,43,Male,8.0,European,Gen,GP Referral,Robert Delacruz,77075001,POAG,129493000,Travoprost,0.0,19,0.6
+62,PTC79172A2,62,Male,8.0,Maori,Gen,GP Referral,Stephen Goodwin,77075001,POAG,785427001,Combigan,0.0,20,0.8
+63,WZU14341M7,91,Male,8.0,European,Optometrist,Internal,Lewis Base,77075001,POAG,409276006,Betaxolol,0.0,20,1.0
+64,TRP72284N2,81,Female,8.0,European,Gen,Other Referral Source,Brooke Alo,77075001,POAG,778547001,Brimonidine,0.0,19,0.2
+65,LXU80935M4,36,Female,9.0,Maori,Gen,Internal,Jessica Baker,77075001,POAG,129493000,Travoprost,0.0,20,0.6
+66,DRB85290X4,83,Female,8.0,Other,Gen,Optometrist,Kristen Taylor,77075001,POAG,780636007,Timolol,0.0,19,0.3
+67,HIW78769G2,66,Male,4.0,European,Gen,Optometrist,Paul Enlow,77075001,POAG,780636007,Timolol,0.0,20,0.8
+68,FMY76108S2,17,Female,6.0,Chinese,Gen,Optometrist,Patricia Murphree,77075001,POAG,129492005,Bimatoprost,0.0,18,0.2
+69,PRL84223D4,72,Male,1.0,European,Gen,Optometrist,Matthew Aguilar,77075001,POAG,778547001,Brimonidine,0.0,18,1.0
+70,SXE61017Z9,71,Female,2.0,European,Gen,Optometrist,Louise Jones,77075001,POAG,778547001,Brimonidine,0.0,20,0.9
+71,LWZ04641F8,74,Male,9.0,European,Gen,GP Referral,Tyler Wethington,77075001,POAG,778547001,Brimonidine,0.0,19,0.9
+72,TIH18190E7,77,Female,10.0,European,Gen,Optometrist,Clara Rasmussen,77075001,POAG,386926002,Latanoprost,0.0,20,0.6
+73,WHO77708Y2,61,Female,9.0,Other Asian,Gen,Specialist Rooms,Carmela Martin,77075001,POAG,409276006,Betaxolol,0.0,21,1.0
+74,JYF22535R3,57,Male,7.0,European,Gen,Optometrist,Joseph Tyner,77075001,POAG,386926002,Latanoprost,0.0,20,0.8
+75,JNU14869M7,81,Female,7.0,European,Gen,Optometrist,April Macy,77075001,POAG,409276006,Betaxolol,0.0,20,0.5
+76,JMU29690M3,63,Female,2.0,European,Gen,Internal,Lan Brown,77075001,POAG,418934007,Levobunolol,0.0,21,0.3
+77,HOX38441V5,71,Female,5.0,Maori,Gen,Internal,Pei Downey,77075001,POAG,409276006,Betaxolol,0.0,19,0.8
+78,SNX44541V1,81,Female,10.0,Maori,Gen,Optometrist,Bonnie Moore,77075001,POAG,129493000,Travoprost,0.0,19,0.5
+79,LRP47790N1,53,Male,9.0,European,Gen,GP Referral,David Askew,77075001,POAG,785427001,Combigan,0.0,19,0.2
+80,SBR88569H4,67,Female,6.0,European,Gen,Optometrist,Lois Shah,77075001,POAG,386926002,Latanoprost,0.0,21,0.6
+81,CGU99935M0,79,Female,10.0,Other,Gen,Optometrist,Rebecca Frazier,77075001,POAG,418934007,Levobunolol,0.0,18,0.4
+82,PPL53208D6,44,Male,4.0,European,Gen,Internal,Julian Apodaca,77075001,POAG,129492005,Bimatoprost,0.0,19,0.7
+83,HBT12690B7,78,Female,7.0,European,Gen,Optometrist,Tara Cook,77075001,POAG,418934007,Levobunolol,0.0,18,0.3
+84,WWT12356B7,87,Female,10.0,Maori,Gen,Optometrist,Tammie Baker,77075001,POAG,778547001,Brimonidine,0.0,19,0.2
+85,JML17769D7,39,Female,9.0,Other,Gen,Specialist Rooms,Betty Maples,77075001,POAG,386926002,Latanoprost,0.0,19,0.8
+86,GCV56441T6,1,Male,7.0,European,Optometrist,Plunket,Andrew Desilva,77075001,POAG,409276006,Betaxolol,0.0,20,0.3
+87,UZY61008S9,22,Male,9.0,European,Gen,Internal,Albert Prach,77075001,POAG,409276006,Betaxolol,0.0,20,0.3
+88,ZEN56435Q6,49,Female,4.0,European,Minor_ops,Specialist Rooms,Angela Smith,77075001,POAG,785427001,Combigan,0.0,20,1.0
+89,RCI17872P7,77,Female,8.0,European,Gen,Specialist Rooms,Victoria Horn,77075001,POAG,409276006,Betaxolol,0.0,19,0.6
+90,YNS36090C5,16,Female,1.0,European,Gen,Optometrist,Janette Tuller,77075001,POAG,778547001,Brimonidine,0.0,19,0.5
+91,HGH88869E4,73,Male,7.0,European,Gen,Other DHB,Dale Amidon,77075001,POAG,129493000,Travoprost,0.0,21,1.0
+92,ZSS26723C3,63,Male,10.0,Maori,Gen,Optometrist,Jeffrey Nash,77075001,POAG,129493000,Travoprost,0.0,18,0.7
+93,YIT15172B7,63,Male,5.0,European,Gen,GP Referral,James Saadd,77075001,POAG,129492005,Bimatoprost,0.0,18,0.7
+94,XPQ50856K6,5,Male,2.0,Maori,Gen,GP Referral,Juan Foley,77075001,POAG,129493000,Travoprost,0.0,18,0.9
+95,CEX42108V1,68,Male,1.0,European,Gen,GP Referral,Herbert Luthy,77075001,POAG,129493000,Travoprost,0.0,18,0.8
+96,TLC25523A3,67,Male,4.0,European,Gen,Optometrist,Michael Lemmons,77075001,POAG,129492005,Bimatoprost,0.0,19,1.0
+97,SIL92156D0,65,Female,4.0,European,Gen,Optometrist,Lynne Stephens,77075001,POAG,785427001,Combigan,0.0,20,1.0
+98,VQJ05690L8,51,Female,9.0,Indian,Gen,GP Referral,Sherry Carriger,77075001,POAG,778547001,Brimonidine,0.0,21,0.7
+99,SUO29717Y3,83,Female,8.0,European,Gen,Optometrist,Bernice Kiefer,77075001,POAG,778547001,Brimonidine,0.0,19,1.0
+100,IEQ81256K4,22,Female,9.0,European,Gen,Optometrist,Irene Vent,77075001,POAG,129493000,Travoprost,0.1,20,0.6
+101,GMS93235C0,1,Female,9.0,Maori,Optometrist,Internal,Marie Parker,77075001,POAG,129492005,Bimatoprost,0.1,21,0.5
+102,DBX72572V2,66,Female,8.0,Other Asian,Gen,GP Referral,Pamela Steere,77075001,POAG,778547001,Brimonidine,0.1,20,0.3
+103,NNO27008Y3,63,Male,10.0,Other,Gen,GP Referral,John Blackburn,77075001,POAG,785427001,Combigan,0.1,22,0.8
+104,SUC81456A4,51,Male,4.0,European,Optometrist,Optometrist,Steve Alexander,77075001,POAG,418934007,Levobunolol,0.1,18,1.0
+105,YGW12769G7,13,Female,9.0,Other Asian,Gen,Optometrist,Gracie Bonello,77075001,POAG,129493000,Travoprost,0.1,19,0.2
+106,ZVH64690E9,50,Male,9.0,Maori,Gen,Other DHB,Lee Ramirez,77075001,POAG,418934007,Levobunolol,0.1,19,0.8
+107,DTM93984J0,10,Male,1.0,Maori,Gen,GP Referral,Todd Buckley,77075001,POAG,129492005,Bimatoprost,0.1,19,0.4
+108,ZBS94772C0,29,Male,10.0,Maori,Gen,Other DHB,James Smith,77075001,POAG,409276006,Betaxolol,0.1,19,1.0
+109,LNU78590M2,56,Female,7.0,European,Gen,GP Referral,Dianne Mode,77075001,POAG,780636007,Timolol,0.1,19,0.5
+110,PIX22017V3,63,Male,2.0,European,Gen,Optometrist,Donald Foote,77075001,POAG,409276006,Betaxolol,0.1,19,0.5
+111,PRS35317C5,81,Male,7.0,European,Gen,GP Referral,James Lacomb,77075001,POAG,129493000,Travoprost,0.1,21,1.0
+112,FLC49672A1,19,Male,9.0,Maori,Gen,GP Referral,Loyd Lee,77075001,POAG,409276006,Betaxolol,0.1,19,0.7
+113,YYP86708N4,15,Male,3.0,European,Gen,Internal,William Lorello,77075001,POAG,418934007,Levobunolol,0.1,20,0.9
+114,JIR04956H8,40,Female,6.0,European,Gen,GP Referral,Debbie Smith,77075001,POAG,780636007,Timolol,0.1,20,1.0
+115,INE00623Z8,83,Male,9.0,European,Gen,Internal,Michael Danz,77075001,POAG,129493000,Travoprost,0.1,21,0.3
+116,LGR03169H8,77,Female,6.0,European,Gen,Optometrist,Patricia Johnson,77075001,POAG,418934007,Levobunolol,0.1,19,0.6
+117,SET58390B6,69,Female,9.0,Maori,Optometrist,GP Referral,Leonor Davis,77075001,POAG,129492005,Bimatoprost,0.1,19,0.4
+118,WZJ53908L6,63,Male,10.0,Maori,Gen,Optometrist,Thomas Marrero,77075001,POAG,386926002,Latanoprost,0.1,20,0.4
+119,VQH17784E7,12,Male,6.0,Maori,Gen,Internal,James Fields,77075001,POAG,129493000,Travoprost,0.1,21,1.0
+120,LNB85190X4,73,Female,8.0,European,Gen,Self Referral,Josephine Wilcox,77075001,POAG,129493000,Travoprost,0.1,19,0.6
+121,LYL64969D9,82,Female,8.0,European,Gen,GP Referral,Lauren Tarpey,77075001,POAG,129492005,Bimatoprost,0.1,19,0.9
+122,DML07369D8,8,Female,6.0,Other Asian,Optometrist,GP Referral,Shirley Sanzotta,77075001,POAG,418934007,Levobunolol,0.1,20,0.4
+123,HQZ08241F8,67,Male,8.0,European,Gen,Optometrist,Richard Ewy,77075001,POAG,129493000,Travoprost,0.1,19,0.8
+124,XQY74884S2,4,Male,8.0,European,Orthoptist,GP Referral,Shawn Carter,77075001,POAG,418934007,Levobunolol,0.1,21,0.2
+125,FXW39756G5,78,Male,2.0,Chinese,Gen,Internal,Ruben Hester,77075001,POAG,780636007,Timolol,0.1,20,0.7
+126,PWD50117U6,67,Male,5.0,European,Gen,GP Referral,Robert Sanchez,77075001,POAG,418934007,Levobunolol,0.1,19,0.4
+127,HMM79941J2,47,Female,5.0,European,Gen,GP Referral,Ashleigh Graf,77075001,POAG,780636007,Timolol,0.1,17,1.0
+128,CJD37269U5,43,Male,10.0,Maori,Nurse,Optometrist,Alvin Reed,77075001,POAG,386926002,Latanoprost,0.1,21,0.2
+129,YGS95517C0,31,Male,9.0,Other,Gen,Optometrist,Steve Slavick,77075001,POAG,409276006,Betaxolol,0.1,19,0.4
+130,GFS51423C6,3,Female,10.0,European,Gen,GP Referral,Beverly Jackson,77075001,POAG,409276006,Betaxolol,0.1,21,0.6
+131,WTZ69935F9,86,Female,9.0,European,Nurse,Optometrist,Shannon Lewis,77075001,POAG,129493000,Travoprost,0.1,20,0.8
+132,DIY88108S4,25,Female,9.0,Chinese,Gen,Self Referral,Elizabeth Cart,77075001,POAG,418934007,Levobunolol,0.1,19,0.9
+133,ROB42769X1,16,Male,5.0,European,Gen,Internal,Arthur Walsh,77075001,POAG,129492005,Bimatoprost,0.1,20,0.5
+134,WDM85341J4,35,Female,2.0,Maori,Gen,Internal,Madge Brogan,77075001,POAG,778547001,Brimonidine,0.1,22,1.0
+135,XNS86390C4,15,Male,8.0,Indian,Gen,Internal,Victor Woods,77075001,POAG,409276006,Betaxolol,0.1,20,0.4
+136,CDU56408M6,41,Male,7.0,European,Gen,Other DHB,Keith Perrier,77075001,POAG,409276006,Betaxolol,0.1,18,0.3
+137,VJX27390V3,53,Female,9.0,Pasifika,Gen,GP Referral,Margaret Kelly,77075001,POAG,418934007,Levobunolol,0.1,20,0.6
+138,ZZT43617B1,80,Female,8.0,European,Gen,Internal,Caitlin Minton,77075001,POAG,386926002,Latanoprost,0.1,20,0.9
+139,TEE17556Z7,39,Female,4.0,European,Gen,GP Referral,Christina Maguire,77075001,POAG,785427001,Combigan,0.1,19,0.3
+140,LPY13641S7,88,Male,5.0,European,Gen,Optometrist,Leon Crump,77075001,POAG,785427001,Combigan,0.1,20,0.7
+141,NBT48635B1,19,Male,3.0,European,Gen,GP Referral,Terrence Smith,77075001,POAG,129493000,Travoprost,0.1,21,1.0
+142,UWN92117Q0,87,Male,9.0,European,Gen,Optometrist,Granville Pate,77075001,POAG,386926002,Latanoprost,0.1,20,0.3
+143,DWO51535Y6,9,Male,3.0,European,Gen,GP Referral,Marc Shook,77075001,POAG,129493000,Travoprost,0.1,21,0.9
+144,WUS52072C6,63,Female,4.0,European,Gen,Other DHB,Teresa Osborne,77075001,POAG,386926002,Latanoprost,0.1,21,1.0
+145,TOS91408C0,53,Female,3.0,European,Gen,Internal,Linda Alvarez,77075001,POAG,785427001,Combigan,0.1,20,0.7
+146,TYB01184X8,64,Female,4.0,European,Gen,GP Referral,Mamie Velez,77075001,POAG,409276006,Betaxolol,0.1,21,0.5
+147,ZJJ09069L8,44,Male,10.0,Maori,Gen,Optometrist,William Lewis,77075001,POAG,418934007,Levobunolol,0.1,20,0.9
+148,JCO11535Y7,78,Male,8.0,European,Gen,Specialist Rooms,Norbert Coca,77075001,POAG,785427001,Combigan,0.1,20,0.9
+149,DMR06341H8,84,Female,10.0,Maori,Nurse,Internal,Laura Worton,77075001,POAG,778547001,Brimonidine,0.1,20,0.3
+150,ZBG58269W6,87,Female,1.0,European,Optometrist,Self Referral,Linda Mcrae,77075001,POAG,129492005,Bimatoprost,0.1,21,0.9
+151,YME20372Z3,67,Female,1.0,Chinese,Gen,GP Referral,Beverly Padilla,77075001,POAG,780636007,Timolol,0.1,18,0.2
+152,HJU66556M9,86,Female,8.0,European,Gen,Optometrist,Adele Zeger,77075001,POAG,778547001,Brimonidine,0.1,20,0.2
+153,ZEJ66523L9,50,Male,8.0,Maori,Gen,Optometrist,Lincoln Mayes,77075001,POAG,129493000,Travoprost,0.1,20,0.2
+154,JWY28384S3,64,Male,8.0,Other Asian,Gen,Internal,Abraham Epps,77075001,POAG,386926002,Latanoprost,0.1,20,0.5
+155,JUH67608E9,82,Male,8.0,European,Gen,Optometrist,Henry Price,77075001,POAG,780636007,Timolol,0.1,21,0.7
+156,VGS89617C4,2,Male,8.0,Other,Gen,Plunket,Henry Kestler,77075001,POAG,780636007,Timolol,0.1,19,0.8
+157,YBH61456E9,15,Male,4.0,Other Asian,Optometrist,Internal,Henry Denson,77075001,POAG,418934007,Levobunolol,0.1,20,0.8
+158,LPW42235G1,68,Female,1.0,Maori,Gen,Internal,Eugenia Mcwilliams,77075001,POAG,778547001,Brimonidine,0.1,20,0.2
+159,LYZ91690F0,83,Male,5.0,European,Gen,Optometrist,Lester Gundlach,77075001,POAG,780636007,Timolol,0.1,20,0.3
+160,PXN89041Q4,80,Male,3.0,European,Gen,Optometrist,Jesse Delaney,77075001,POAG,129493000,Travoprost,0.1,19,1.0
+161,PWX01108V8,33,Female,1.0,European,Gen,GP Referral,Nadine Dunn,77075001,POAG,409276006,Betaxolol,0.1,20,0.7
+162,HZG11317W7,72,Female,9.0,European,Gen,Internal,Mabel Powell,77075001,POAG,785427001,Combigan,0.1,20,0.3
+163,PPC58569A6,85,Male,9.0,European,Injection,Optometrist,Russell Macon,77075001,POAG,778547001,Brimonidine,0.1,19,1.0
+164,SDS91172C0,30,Male,10.0,Maori,Gen,Internal,William Starr,77075001,POAG,386926002,Latanoprost,0.1,19,0.3
+165,ZXT68108B9,61,Female,9.0,European,Gen,Specialist Rooms,Kristina Oldham,77075001,POAG,409276006,Betaxolol,0.1,19,0.3
+166,HBZ01923F8,71,Female,10.0,Maori,Gen,Internal,Linda Taylor,77075001,POAG,780636007,Timolol,0.1,21,0.8
+167,CZG70890W2,57,Female,7.0,European,Gen,GP Referral,Velma Dunham,77075001,POAG,129493000,Travoprost,0.1,20,1.0
+168,LLP40223N1,61,Female,4.0,Maori,Gen,GP Referral,Kathleen Perkins,77075001,POAG,418934007,Levobunolol,0.1,21,0.8
+169,LHE35608Z5,85,Male,10.0,European,Injection,Optometrist,Earl Smith,77075001,POAG,418934007,Levobunolol,0.1,20,0.3
+170,PJX52723V6,64,Male,2.0,European,Gen,GP Referral,Colby Dayton,77075001,POAG,778547001,Brimonidine,0.1,20,1.0
+171,VEG23172W3,39,Male,6.0,Indian,Gen,Internal,Patrick Agee,77075001,POAG,129493000,Travoprost,0.1,20,1.0
+172,VTI87490P4,70,Female,2.0,European,Gen,Internal,Pearl Bennett,77075001,POAG,386926002,Latanoprost,0.1,19,0.9
+173,PIV07669T8,72,Male,10.0,European,Gen,Optometrist,William Llanes,77075001,POAG,780636007,Timolol,0.1,20,0.3
+174,JPB44208X1,95,Male,2.0,European,Gen,Optometrist,Jorge Kinder,77075001,POAG,418934007,Levobunolol,0.1,20,0.4
+175,DCF12908R7,62,Male,6.0,Other Asian,Optometrist,Optometrist,Andrew Langford,77075001,POAG,409276006,Betaxolol,0.1,20,0.9
+176,HLF00069R8,56,Male,3.0,European,Gen,Optometrist,George Henle,77075001,POAG,778547001,Brimonidine,0.1,20,0.6
+177,CBM89841J4,77,Male,7.0,European,Gen,Internal,Joseph Tice,77075001,POAG,129493000,Travoprost,0.1,21,0.4
+178,HRV21617T3,38,Male,5.0,Maori,Gen,GP Referral,Richard Warhurst,77075001,POAG,409276006,Betaxolol,0.1,20,0.4
+179,FQZ62041F9,26,Female,8.0,European,Gen,Optometrist,Lizeth Bush,77075001,POAG,418934007,Levobunolol,0.1,21,0.5
+180,GZB38423X5,3,Male,6.0,Indian,Gen,Optometrist,Taylor Randall,77075001,POAG,780636007,Timolol,0.1,19,0.6
+181,DER10669H7,3,Female,7.0,European,Gen,GP Referral,Edith Rodriguez,77075001,POAG,778547001,Brimonidine,0.1,20,0.7
+182,DQZ99135F0,7,Male,8.0,European,Gen,GP Referral,Arnold Knapchuck,77075001,POAG,129492005,Bimatoprost,0.1,20,0.2
+183,IVP89117N4,84,Male,10.0,Pasifika,Gen,Internal,George Slaton,77075001,POAG,778547001,Brimonidine,0.1,18,0.2
+184,UHG97123W0,48,Female,10.0,European,Minor_ops,Internal,Alexandra Funderburk,77075001,POAG,409276006,Betaxolol,0.1,19,0.5
+185,CFL15241D7,42,Female,7.0,European,Gen,Optometrist,Margaret Magee,77075001,POAG,418934007,Levobunolol,0.1,19,1.0
+186,SVC18835A7,81,Female,9.0,Maori,Gen,GP Referral,Grace Close,77075001,POAG,129492005,Bimatoprost,0.1,20,0.7
+187,ZPQ61090K9,61,Female,8.0,European,Gen,Optometrist,Irene Campbell,77075001,POAG,785427001,Combigan,0.1,20,0.3
+188,YSY19384S7,11,Male,7.0,European,Gen,Optometrist,Bobby Melton,77075001,POAG,778547001,Brimonidine,0.1,19,1.0
+189,GYZ32823F5,41,Female,7.0,Other Asian,Gen,Internal,Brandi Dennison,77075001,POAG,418934007,Levobunolol,0.1,21,0.4
+190,PIP23456N3,60,Female,3.0,European,Minor_ops,Optometrist,Tiffany Mailes,77075001,POAG,785427001,Combigan,0.1,18,0.5
+191,MCI31917P5,85,Male,8.0,European,Gen,GP Referral,Jimmie Vallejo,77075001,POAG,386926002,Latanoprost,0.1,20,0.3
+192,JET03456B8,56,Male,4.0,European,Gen,Self Referral,Darren Oldfather,77075001,POAG,780636007,Timolol,0.1,19,0.4
+193,ZDF38917R5,41,Male,10.0,Maori,Gen,Internal,Jason Clark,77075001,POAG,386926002,Latanoprost,0.1,18,1.0
+194,WHZ44935F1,87,Male,4.0,Maori,Nurse,Internal,Richard Durazo,77075001,POAG,780636007,Timolol,0.1,19,0.2
+195,JUD34023U5,89,Female,2.0,European,Gen,GP Referral,Kelly Fry,77075001,POAG,785427001,Combigan,0.1,19,0.8
+196,CCY50023S6,66,Male,1.0,European,Gen,GP Referral,Billy Collette,77075001,POAG,129493000,Travoprost,0.1,18,0.9
+197,PGB70608X2,69,Female,9.0,Maori,Nurse,Internal,Diana Nesbitt,77075001,POAG,785427001,Combigan,0.1,19,0.4
+198,LGV25017T3,62,Male,2.0,European,Gen,Internal,Brandon Murphy,77075001,POAG,780636007,Timolol,0.1,20,0.6
+199,LFH89590E4,56,Female,7.0,Maori,Gen,Internal,Racheal Wilson,77075001,POAG,780636007,Timolol,0.1,21,0.2
+200,JUJ31456L5,68,Female,5.0,Other,Gen,GP Referral,Edith Smith,77075001,POAG,418934007,Levobunolol,0.2,20,0.7
+201,LDC49617A1,73,Male,7.0,European,Gen,Optometrist,Richard Vogel,77075001,POAG,778547001,Brimonidine,0.2,19,0.9
+202,JXC04741A8,76,Female,10.0,European,Gen,GP Referral,Cindy Pugh,77075001,POAG,780636007,Timolol,0.2,21,0.4
+203,DYO61108Y9,1,Female,1.0,European,Orthoptist,GP Referral,Beverly Miller,77075001,POAG,129492005,Bimatoprost,0.2,19,0.8
+204,WRZ99808F0,79,Female,8.0,European,Gen,Specialist Rooms,Harriett Orr,77075001,POAG,409276006,Betaxolol,0.2,20,0.2
+205,LUI61523P9,90,Female,8.0,European,Gen,Internal,Tara Emry,77075001,POAG,418934007,Levobunolol,0.2,20,0.2
+206,HYN61690Q9,51,Male,2.0,European,Gen,Internal,William Williams,77075001,POAG,780636007,Timolol,0.2,18,1.0
+207,LYB77872X2,34,Female,2.0,European,Gen,Internal,Glenda Cullins,77075001,POAG,785427001,Combigan,0.2,19,0.4
+208,LFL11935D7,60,Female,1.0,European,Gen,GP Referral,Nancy Thompson,77075001,POAG,780636007,Timolol,0.2,19,0.5
+209,UUB73023X2,25,Female,1.0,European,Gen,Optometrist,Cora Thornton,77075001,POAG,418934007,Levobunolol,0.2,19,0.6
+210,RJE73756Z2,72,Male,10.0,European,Gen,Other DHB,Arlen Hershenson,77075001,POAG,129493000,Travoprost,0.2,20,0.2
+211,JNU08141M8,62,Male,4.0,Indian,Gen,Internal,Clarence Olin,77075001,POAG,778547001,Brimonidine,0.2,18,0.7
+212,DLG22384W3,47,Female,9.0,European,Gen,Self Referral,Antoinette Good,77075001,POAG,778547001,Brimonidine,0.2,21,0.4
+213,SPT65656B9,61,Female,9.0,Pasifika,Gen,Optometrist,Ada Bowmer,77075001,POAG,778547001,Brimonidine,0.2,20,0.7
+214,LQD59835U6,82,Female,3.0,European,Gen,Internal,Tracie Moody,77075001,POAG,785427001,Combigan,0.2,20,0.9
+215,TSC23541A3,69,Male,7.0,European,Gen,Other DHB,Daniel Desposito,77075001,POAG,129493000,Travoprost,0.2,20,0.3
+216,UEG50090W6,81,Female,7.0,European,Gen,Internal,Diane Valenzula,77075001,POAG,785427001,Combigan,0.2,18,1.0
+217,BZM84408J4,1,Female,9.0,Maori,Gen,Emergency Department,Clementine Bloxham,77075001,POAG,780636007,Timolol,0.2,21,0.3
+218,UDI77090P2,61,Male,4.0,European,Gen,Internal,Kurtis Gagne,77075001,POAG,418934007,Levobunolol,0.2,21,0.9
+219,LTZ77817F2,74,Male,1.0,European,Optometrist,GP Referral,Donnie Coleman,77075001,POAG,129493000,Travoprost,0.2,18,0.4
+220,UCN32335Q5,49,Male,6.0,Maori,Gen,Optometrist,David Sims,77075001,POAG,409276006,Betaxolol,0.2,22,0.9
+221,VZG14872W7,19,Male,8.0,Maori,Gen,Optometrist,Timothy Brooks,77075001,POAG,129492005,Bimatoprost,0.2,21,0.6
+222,PWX54817V6,43,Female,8.0,European,Gen,Internal,Mildred Bowman,77075001,POAG,780636007,Timolol,0.2,20,0.9
+223,ZCQ87941K4,55,Male,9.0,European,Gen,Internal,William Rogers,77075001,POAG,785427001,Combigan,0.2,20,1.0
+224,PWB65717X9,29,Female,8.0,Maori,Gen,Optometrist,Carrie Kearney,77075001,POAG,780636007,Timolol,0.2,18,0.2
+225,WCQ03217K8,77,Female,8.0,European,Gen,Optometrist,Mary Silva,77075001,POAG,386926002,Latanoprost,0.2,20,1.0
+226,JYM08184J8,90,Male,7.0,European,Injection,Other DHB,Kenneth Wilson,77075001,POAG,778547001,Brimonidine,0.2,19,0.6
+227,XNY03941S8,4,Female,8.0,European,Orthoptist,GP Referral,Vicenta Luther,77075001,POAG,785427001,Combigan,0.2,20,0.9
+228,LXH90941E0,62,Female,8.0,Maori,Optometrist,GP Referral,Patricia Taranto,77075001,POAG,785427001,Combigan,0.2,20,0.4
+229,NEW19241G7,12,Female,6.0,Maori,Gen,Internal,Melinda Gerveler,77075001,POAG,409276006,Betaxolol,0.2,20,0.8
+230,CNN24056Q3,84,Female,7.0,Other,Optometrist,Internal,Charlotte Place,77075001,POAG,409276006,Betaxolol,0.2,21,0.7
+231,IRO02956Y8,50,Female,8.0,European,Gen,Optometrist,Pam Fontaine,77075001,POAG,778547001,Brimonidine,0.2,20,0.6
+232,DDD73390U2,7,Female,2.0,Maori,Gen,Other Referral Source,Charlene Kaminski,77075001,POAG,129492005,Bimatoprost,0.2,20,0.7
+233,UCW10035G7,80,Female,8.0,European,Gen,Specialist Rooms,Patricia Frye,77075001,POAG,780636007,Timolol,0.2,20,0.8
+234,LQB79572X2,57,Male,5.0,European,Gen,GP Referral,Daniel Fennell,77075001,POAG,778547001,Brimonidine,0.2,20,0.6
+235,SDS59541C6,75,Female,8.0,Maori,Gen,Optometrist,Kate White,77075001,POAG,409276006,Betaxolol,0.2,18,0.7
+236,HYR55708H6,29,Male,6.0,European,Gen,Other DHB,Joseph Waterman,77075001,POAG,418934007,Levobunolol,0.2,18,1.0
+237,ZHW29656G3,91,Male,7.0,European,Optometrist,Optometrist,Anthony Diaz,77075001,POAG,418934007,Levobunolol,0.2,17,0.4
+238,UCM39623J5,18,Female,8.0,Maori,Gen,Self Referral,Karen Paulsen,77075001,POAG,785427001,Combigan,0.2,20,0.3
+239,CLF02769R8,57,Female,3.0,Maori,Gen,Internal,Nyla Smith,77075001,POAG,785427001,Combigan,0.2,21,0.4
+240,ZWT00141B8,40,Male,1.0,European,Gen,Internal,Charles Gaiser,77075001,POAG,409276006,Betaxolol,0.2,18,0.3
+241,ZOZ18069F7,22,Male,6.0,European,Gen,Other Referral Source,Kevin Harman,77075001,POAG,778547001,Brimonidine,0.2,21,0.8
+242,LSS38956C5,67,Female,6.0,European,Gen,Optometrist,Martha Cook,77075001,POAG,129492005,Bimatoprost,0.2,19,0.2
+243,NDG83369W4,20,Female,2.0,European,Gen,Internal,Willow Geiger,77075001,POAG,129493000,Travoprost,0.2,21,0.7
+244,XHD96935U0,2,Male,7.0,Maori,Gen,Internal,Ryan Schuetz,77075001,POAG,386926002,Latanoprost,0.2,21,0.2
+245,SMQ20608K3,75,Male,3.0,European,Gen,Optometrist,Robert Schuman,77075001,POAG,785427001,Combigan,0.2,20,0.4
+246,PHG74669W2,50,Male,9.0,Pasifika,Gen,GP Referral,William Blackman,77075001,POAG,409276006,Betaxolol,0.2,20,0.2
+247,WQG87772W4,99,Male,10.0,European,Gen,Optometrist,Victor Washington,77075001,POAG,778547001,Brimonidine,0.2,21,0.4
+248,ZTL78290D2,41,Male,9.0,European,Gen,Self Referral,Wade Schwartz,77075001,POAG,129493000,Travoprost,0.2,18,0.8
+249,IOB96256X0,56,Male,6.0,European,Gen,Optometrist,Frederick Gandy,77075001,POAG,778547001,Brimonidine,0.2,19,0.9
+250,LOC67435A9,60,Male,6.0,Other,Gen,GP Referral,Robert Haynie,77075001,POAG,780636007,Timolol,0.2,21,0.6
+251,TYM68590J9,71,Male,5.0,European,Gen,Internal,John Silva,77075001,POAG,129492005,Bimatoprost,0.2,19,0.6
+252,WXR83323H4,87,Male,5.0,European,Nurse,Optometrist,Carl Peralta,77075001,POAG,418934007,Levobunolol,0.2,19,0.2
+253,UWN23208Q3,86,Female,3.0,European,Gen,Specialist Rooms,Jamie Foster,77075001,POAG,785427001,Combigan,0.2,18,0.6
+254,LOS89635C4,75,Male,7.0,European,Gen,GP Referral,Ken Balzer,77075001,POAG,778547001,Brimonidine,0.2,19,0.2
+255,UQJ43008L1,80,Female,4.0,European,Gen,Internal,Lucinda Harms,77075001,POAG,418934007,Levobunolol,0.2,21,0.6
+256,LNR20335H3,58,Female,4.0,European,Gen,Optometrist,Kathy Mahon,77075001,POAG,780636007,Timolol,0.2,20,0.9
+257,ZUT32884B5,72,Female,6.0,Chinese,Gen,GP Referral,Stephanie Barnett,77075001,POAG,418934007,Levobunolol,0.2,19,0.5
+258,JWJ94756L0,57,Male,8.0,Indian,Gen,Internal,Leo Iuliucci,77075001,POAG,129493000,Travoprost,0.2,20,0.8
+259,TDO63208Y9,81,Male,6.0,European,Gen,Internal,Donald Koenitzer,77075001,POAG,409276006,Betaxolol,0.2,18,0.2
+260,HST55584B6,33,Female,7.0,Maori,Gen,Internal,Denise Belz,77075001,POAG,129492005,Bimatoprost,0.2,21,0.7
+261,JVF76023R2,90,Female,1.0,European,Gen,Specialist Rooms,Charlotte Cornett,77075001,POAG,129492005,Bimatoprost,0.2,21,0.8
+262,XGM70841J2,4,Female,9.0,European,Optometrist,GP Referral,Sherry Poole,77075001,POAG,785427001,Combigan,0.2,18,0.7
+263,GTN31590Q5,7,Female,9.0,Other,Optometrist,Optometrist,Judy Hood,77075001,POAG,409276006,Betaxolol,0.2,19,0.6
+264,HGD12472U7,74,Female,10.0,Maori,Gen,Optometrist,Shela Schumpert,77075001,POAG,418934007,Levobunolol,0.2,17,0.3
+265,SSX06717V8,84,Female,7.0,European,Gen,Optometrist,Kimberly Carpenter,77075001,POAG,418934007,Levobunolol,0.2,19,0.5
+266,LDD09772U8,67,Male,8.0,European,Optometrist,Internal,Norman Page,77075001,POAG,129492005,Bimatoprost,0.2,19,0.2
+267,MZJ12308L7,8,Female,4.0,European,Gen,Internal,Elizabeth Smith,77075001,POAG,129493000,Travoprost,0.2,21,0.2
+268,ICJ24972L3,28,Female,10.0,European,Gen,Optometrist,Edith Robertson,77075001,POAG,780636007,Timolol,0.2,19,0.7
+269,YSU46208M1,48,Male,5.0,European,Gen,Internal,Edward Garcia,77075001,POAG,780636007,Timolol,0.2,19,0.8
+270,GDF16823R7,14,Male,8.0,Other,Gen,Internal,John Smith,77075001,POAG,129493000,Travoprost,0.2,21,0.8
+271,DCE39308Z5,10,Male,5.0,European,Gen,Other Referral Source,Alfred Broglio,77075001,POAG,785427001,Combigan,0.2,19,0.4
+272,VEH40556E1,3,Male,6.0,European,Optometrist,Plunket,Robert Fowler,77075001,POAG,409276006,Betaxolol,0.2,19,0.5
+273,JQF02123R8,77,Female,8.0,European,Gen,Optometrist,Maria Hartman,77075001,POAG,785427001,Combigan,0.2,21,0.8
+274,YSD41890U1,17,Female,5.0,European,Gen,Optometrist,Dana Yarborough,77075001,POAG,409276006,Betaxolol,0.2,21,0.6
+275,VCB53741X6,13,Female,8.0,European,Optometrist,Optometrist,Danna Fuller,77075001,POAG,785427001,Combigan,0.2,18,0.7
+276,FIB28590X3,43,Male,5.0,European,Gen,GP Referral,Andrew Silva,77075001,POAG,386926002,Latanoprost,0.2,19,0.5
+277,JYI68235P9,84,Female,8.0,European,Optometrist,Optometrist,Jennifer Harne,77075001,POAG,418934007,Levobunolol,0.2,20,0.6
+278,HGM60841J9,80,Male,6.0,European,Gen,Internal,Jonathan Williams,77075001,POAG,785427001,Combigan,0.2,17,0.4
+279,SIJ81708L4,61,Female,8.0,European,Gen,Internal,Shirley Lostroh,77075001,POAG,780636007,Timolol,0.2,20,0.6
+280,HEV47435T1,28,Female,9.0,European,Gen,GP Referral,Virginia Freeman,77075001,POAG,780636007,Timolol,0.2,19,0.6
+281,LIQ05369K8,68,Male,8.0,European,Gen,Other DHB,Ruben Zemlicka,77075001,POAG,785427001,Combigan,0.2,21,0.9
+282,VDR11490H7,52,Male,2.0,Other Asian,Gen,Optometrist,Hoyt Anderson,77075001,POAG,780636007,Timolol,0.2,20,0.4
+283,LNX75156V2,66,Male,7.0,European,Laser,GP Referral,Martin Studt,77075001,POAG,780636007,Timolol,0.2,22,0.8
+284,ZQC01935A8,90,Male,9.0,European,Laser,Optometrist,Paul Lopez,77075001,POAG,129492005,Bimatoprost,0.2,20,0.7
+285,IGX33472V5,28,Female,9.0,Maori,Gen,Internal,Tarah Stanwick,77075001,POAG,778547001,Brimonidine,0.2,20,1.0
+286,YCN74841Q2,16,Female,3.0,European,Gen,Optometrist,Susan Donahue,77075001,POAG,780636007,Timolol,0.2,21,0.8
+287,JUY93141S0,77,Female,10.0,Maori,Gen,Internal,Andrea King,77075001,POAG,778547001,Brimonidine,0.2,21,0.3
+288,HYG20456W3,60,Male,8.0,Maori,Gen,Optometrist,William Gore,77075001,POAG,129493000,Travoprost,0.2,20,0.4
+289,LMV69941T9,63,Female,1.0,Other Asian,Gen,Optometrist,Barbara Reyes,77075001,POAG,418934007,Levobunolol,0.2,20,0.4
+290,DOC63069A9,68,Male,4.0,Indian,Gen,Other DHB,Matthew Rowe,77075001,POAG,780636007,Timolol,0.2,19,0.9
+291,WUX36723V5,82,Female,9.0,European,Gen,GP Referral,Joyce Crawford,77075001,POAG,129493000,Travoprost,0.2,20,0.6
+292,RRJ21317L3,35,Male,9.0,Maori,Gen,Internal,Gabriel Bullock,77075001,POAG,129492005,Bimatoprost,0.2,18,0.9
+293,RRQ54317K6,58,Male,10.0,European,Gen,Internal,Daniel Bruno,77075001,POAG,418934007,Levobunolol,0.2,20,0.2
+294,HZP11323N7,86,Female,9.0,European,Nurse,GP Referral,Victoria Rush,77075001,POAG,778547001,Brimonidine,0.2,18,0.6
+295,LCN87941Q4,73,Female,7.0,European,Gen,Other DHB,Linda Fieldson,77075001,POAG,129493000,Travoprost,0.2,19,0.2
+296,LPU60423M9,69,Female,10.0,European,Optometrist,Internal,Eunice Beard,77075001,POAG,409276006,Betaxolol,0.2,21,0.4
+297,XBF62990R9,4,Male,8.0,European,Orthoptist,GP Referral,Samuel Middleton,77075001,POAG,785427001,Combigan,0.2,19,1.0
+298,LOR20341H3,62,Female,10.0,Maori,Nurse,Optometrist,Carolyn Slater,77075001,POAG,418934007,Levobunolol,0.2,19,0.4
+299,IHE94323Z0,59,Male,5.0,Maori,Gen,Internal,David Duran,77075001,POAG,780636007,Timolol,0.2,20,0.6
+300,NBE16484Z7,78,Female,4.0,European,Optometrist,Internal,Rhonda Dornier,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,21,0.6
+301,LIM20356J3,73,Female,7.0,European,Minor_ops,Internal,Connie Verde,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,0.9
+302,XMS61084C9,5,Male,8.0,European,Gen,Internal,Jerry Dennis,1231243004,High pressure POAG,418934007,Levobunolol,0.2,19,0.5
+303,HJO98923Y0,49,Female,3.0,European,Gen,Specialist Rooms,Patricia Alas,1231243004,High pressure POAG,785427001,Combigan,0.2,18,0.6
+304,DWQ50656K6,6,Female,5.0,European,Optometrist,GP Referral,Rosalind Mora,1231243004,High pressure POAG,778547001,Brimonidine,0.2,17,0.6
+305,TEU88723M4,65,Female,10.0,European,Gen,Other Referral Source,Paris Nelson,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.9
+306,PPB98956X0,49,Male,9.0,Maori,Gen,Internal,Robert Fassett,1231243004,High pressure POAG,780636007,Timolol,0.2,19,0.3
+307,ZWT69541B9,76,Male,10.0,Maori,Gen,Optometrist,Robert Cardinale,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.4
+308,HJJ87417L4,48,Male,9.0,European,Gen,GP Referral,Ted Sedlacek,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,0.4
+309,TDU80441M4,61,Female,5.0,European,Gen,Other DHB,Ashleigh Jesus,1231243004,High pressure POAG,780636007,Timolol,0.2,20,0.9
+310,UUN72290Q2,69,Male,6.0,European,Gen,Internal,Brian Irvin,1231243004,High pressure POAG,409276006,Betaxolol,0.2,19,0.7
+311,FJF75217R2,14,Male,8.0,European,Gen,GP Referral,Joseph Smith,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.6
+312,WQN26023Q3,73,Male,10.0,European,Gen,Specialist Rooms,John Schaefer,1231243004,High pressure POAG,409276006,Betaxolol,0.2,19,0.5
+313,ZED06017U8,72,Female,9.0,Maori,Gen,Internal,Laura Wesner,1231243004,High pressure POAG,780636007,Timolol,0.2,21,0.5
+314,HIO26835Y3,81,Male,8.0,European,Gen,GP Referral,Michael Obrien,1231243004,High pressure POAG,785427001,Combigan,0.2,19,0.7
+315,YPD11684U7,13,Female,4.0,European,Gen,Other DHB,Felicia Bond,1231243004,High pressure POAG,129493000,Travoprost,0.2,19,0.3
+316,YOU92335M0,44,Female,6.0,European,Orthoptist,Internal,Anna Evanson,1231243004,High pressure POAG,785427001,Combigan,0.2,20,0.3
+317,ZEQ67272K9,88,Female,8.0,European,Gen,Optometrist,Barbara Terrell,1231243004,High pressure POAG,129493000,Travoprost,0.2,19,1.0
+318,GOZ95272F0,1,Male,10.0,Maori,Gen,Internal,Galen Mack,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,19,0.7
+319,JUH94408E0,22,Female,9.0,European,Gen,GP Referral,Karen Anders,1231243004,High pressure POAG,129493000,Travoprost,0.2,18,0.9
+320,ZON84169Q4,69,Male,10.0,European,Nurse,Optometrist,Elmer Ackerman,1231243004,High pressure POAG,129493000,Travoprost,0.2,19,0.4
+321,DFJ84808L4,40,Male,10.0,Other Asian,Gen,GP Referral,Stewart Miller,1231243004,High pressure POAG,386926002,Latanoprost,0.2,18,0.8
+322,FVN60784Q9,41,Male,2.0,European,Gen,Internal,Tony Bland,1231243004,High pressure POAG,129493000,Travoprost,0.2,22,0.2
+323,YBO41356Y1,12,Male,6.0,European,Gen,GP Referral,Jason Thomson,1231243004,High pressure POAG,386926002,Latanoprost,0.2,17,1.0
+324,UTV49908T1,22,Female,2.0,European,Gen,Specialist Rooms,Paula Murphy,1231243004,High pressure POAG,386926002,Latanoprost,0.2,18,0.3
+325,IFL57084D6,84,Male,9.0,European,Gen,Optometrist,Vito Tomlin,1231243004,High pressure POAG,780636007,Timolol,0.2,21,0.3
+326,ZOH59323E6,92,Female,7.0,European,Gen,Optometrist,Lisa Parsons,1231243004,High pressure POAG,785427001,Combigan,0.2,21,1.0
+327,WDT40023B1,29,Male,9.0,Pasifika,Gen,GP Referral,Raymond Harris,1231243004,High pressure POAG,778547001,Brimonidine,0.2,21,1.0
+328,ZWX19908V7,62,Female,10.0,European,Gen,GP Referral,Bobbie Sistrunk,1231243004,High pressure POAG,409276006,Betaxolol,0.2,21,0.2
+329,RHL01123D8,89,Male,1.0,European,Laser,Optometrist,Benjamin Spencer,1231243004,High pressure POAG,129493000,Travoprost,0.2,19,0.7
+330,JGQ34569K5,69,Female,6.0,European,Gen,Other DHB,Kara Madrigal,1231243004,High pressure POAG,418934007,Levobunolol,0.2,22,0.3
+331,JMP47617N1,73,Female,8.0,European,Gen,Optometrist,Angela Cook,1231243004,High pressure POAG,785427001,Combigan,0.2,18,0.2
+332,LYR70917H2,71,Male,10.0,European,Gen,GP Referral,Paul Armour,1231243004,High pressure POAG,778547001,Brimonidine,0.2,19,0.2
+333,HMS30869C5,80,Female,10.0,European,Gen,Optometrist,Carol Ijames,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.9
+334,BLT72817B2,1,Female,8.0,Indian,Optometrist,GP Referral,Jamie Buggs,1231243004,High pressure POAG,778547001,Brimonidine,0.2,20,0.2
+335,TUP96390N0,35,Male,9.0,Maori,Gen,Self Referral,Brian Reese,1231243004,High pressure POAG,780636007,Timolol,0.2,20,0.4
+336,LWY04517S8,53,Female,5.0,European,Gen,Internal,Diane Kurtz,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.5
+337,URP07435N8,86,Female,7.0,European,Gen,Internal,Yoshiko Falvo,1231243004,High pressure POAG,418934007,Levobunolol,0.2,20,0.3
+338,JOI06272P8,77,Female,7.0,European,Gen,Optometrist,Cynthia Urick,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.2
+339,JZR87256H4,86,Female,6.0,European,Gen,Optometrist,Karyn Etienne,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.4
+340,VSY69569S9,71,Female,2.0,Other Asian,Nurse,Optometrist,Tammy Pollack,1231243004,High pressure POAG,386926002,Latanoprost,0.2,21,0.5
+341,UDI40169P1,91,Male,8.0,European,Optometrist,GP Referral,Mark Heinrich,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.2
+342,JCC39972A5,38,Female,5.0,European,Gen,GP Referral,Marion Moore,1231243004,High pressure POAG,778547001,Brimonidine,0.2,19,0.4
+343,HIT54417B6,72,Male,7.0,Other,Gen,Optometrist,Carl Coca,1231243004,High pressure POAG,386926002,Latanoprost,0.2,17,1.0
+344,HGJ13423L7,68,Male,9.0,European,Gen,Internal,Kenneth Montgomery,1231243004,High pressure POAG,785427001,Combigan,0.2,20,0.8
+345,TUZ60823F9,77,Female,7.0,European,Injection,GP Referral,Kathy Wu,1231243004,High pressure POAG,778547001,Brimonidine,0.2,21,0.8
+346,UJM34656J5,66,Female,7.0,Indian,Gen,Optometrist,Letha Newcomb,1231243004,High pressure POAG,785427001,Combigan,0.2,21,1.0
+347,CHD25790U3,47,Male,3.0,European,Gen,Internal,Richard Heisler,1231243004,High pressure POAG,785427001,Combigan,0.2,19,0.4
+348,JDZ85390F4,74,Female,1.0,Indian,Gen,Specialist Rooms,Alena Deblauw,1231243004,High pressure POAG,418934007,Levobunolol,0.2,20,0.7
+349,DEC62923A9,6,Female,2.0,European,Orthoptist,Internal,Doris Kelly,1231243004,High pressure POAG,785427001,Combigan,0.2,19,0.6
+350,XOX72941V2,0,Female,8.0,Maori,Gen,Internal,Wanda Kopf,1231243004,High pressure POAG,785427001,Combigan,0.2,21,0.4
+351,HRN88490Q4,85,Female,8.0,European,Gen,Specialist Rooms,Rose Simpson,1231243004,High pressure POAG,785427001,Combigan,0.2,19,0.7
+352,DJX59435V6,3,Female,8.0,European,Orthoptist,GP Referral,Amy Cannaday,1231243004,High pressure POAG,418934007,Levobunolol,0.2,20,0.3
+353,ZBS45735C1,25,Male,5.0,Maori,Gen,Self Referral,Oren Sabo,1231243004,High pressure POAG,780636007,Timolol,0.2,19,0.6
+354,SYH43084E1,50,Female,6.0,Maori,Gen,GP Referral,Denise Hammer,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,0.6
+355,WMT97835B0,72,Female,1.0,European,Gen,Specialist Rooms,Christine Mcwhorter,1231243004,High pressure POAG,778547001,Brimonidine,0.2,20,0.9
+356,LXD32208U5,77,Male,5.0,European,Minor_ops,GP Referral,James Powell,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,0.4
+357,LES15969C7,68,Male,6.0,European,Gen,Optometrist,George Jones,1231243004,High pressure POAG,785427001,Combigan,0.2,19,0.4
+358,SPE33408Z5,49,Male,10.0,Maori,Gen,Internal,Timothy Walser,1231243004,High pressure POAG,409276006,Betaxolol,0.2,19,0.2
+359,LYV65017T9,78,Male,10.0,Maori,Gen,GP Referral,Matthew Hamilton,1231243004,High pressure POAG,418934007,Levobunolol,0.2,18,0.7
+360,RUU03890M8,83,Female,8.0,European,Gen,Optometrist,Maude Cooper,1231243004,High pressure POAG,785427001,Combigan,0.2,20,0.5
+361,ZLF93608R0,60,Female,9.0,Maori,Gen,Optometrist,Carla Miller,1231243004,High pressure POAG,409276006,Betaxolol,0.2,21,0.6
+362,ZYY21217S3,61,Female,8.0,Maori,Gen,Other Referral Source,Jennifer Aguirre,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.2
+363,PUE23841Z3,57,Male,8.0,European,Optometrist,GP Referral,Derrick Borg,1231243004,High pressure POAG,129493000,Travoprost,0.2,19,0.3
+364,DFF35423R5,1,Male,9.0,European,Gen,Internal,Todd Morris,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.8
+365,HBM09084J8,42,Female,9.0,Maori,Gen,GP Referral,Jeanne Farwell,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,1.0
+366,IHL82790D4,22,Female,1.0,European,Gen,Optometrist,Melanie Guyette,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,1.0
+367,DPQ29835K3,2,Male,4.0,European,Gen,GP Referral,Ronald Orloff,1231243004,High pressure POAG,780636007,Timolol,0.2,19,0.7
+368,LOC86123A4,68,Male,8.0,European,Gen,Specialist Rooms,Brandon Beckham,1231243004,High pressure POAG,780636007,Timolol,0.2,21,0.5
+369,FGI44472P1,12,Female,6.0,European,Gen,GP Referral,Sara Richardson,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.9
+370,HEC87617A4,79,Male,9.0,Maori,Nurse,Optometrist,Keith Joseph,1231243004,High pressure POAG,418934007,Levobunolol,0.2,19,1.0
+371,PUN34572Q5,65,Male,9.0,Maori,Nurse,GP Referral,Marvin Allmon,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,19,0.6
+372,UQV22084T3,88,Female,9.0,European,Injection,Optometrist,Helen Osteen,1231243004,High pressure POAG,418934007,Levobunolol,0.2,19,0.6
+373,UMM73441J2,49,Female,7.0,European,Gen,Optometrist,Carroll Grillo,1231243004,High pressure POAG,778547001,Brimonidine,0.2,20,0.8
+374,LVH58490E6,48,Male,8.0,European,Gen,Other DHB,William Farabaugh,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,21,0.8
+375,FPC72784A2,80,Male,10.0,Other Asian,Gen,Optometrist,Danny Bogar,1231243004,High pressure POAG,409276006,Betaxolol,0.2,19,0.9
+376,LLI75869P2,64,Female,10.0,European,Gen,Internal,Margaret Christophe,1231243004,High pressure POAG,418934007,Levobunolol,0.2,20,0.4
+377,XRE48484Z1,33,Male,9.0,Pasifika,Gen,Internal,Jonathan Stange,1231243004,High pressure POAG,785427001,Combigan,0.2,20,1.0
+378,HZV48872T1,57,Female,7.0,Other Asian,Gen,Internal,Eloise Buttaro,1231243004,High pressure POAG,386926002,Latanoprost,0.2,19,0.8
+379,WZZ98423F0,80,Female,1.0,European,Gen,Specialist Rooms,Connie Ragland,1231243004,High pressure POAG,409276006,Betaxolol,0.2,19,0.5
+380,LCD66869U9,67,Male,7.0,European,Gen,Internal,Richard Owens,1231243004,High pressure POAG,785427001,Combigan,0.2,20,0.5
+381,FJH52484E6,12,Female,8.0,European,Gen,GP Referral,Rosita Shapiro,1231243004,High pressure POAG,780636007,Timolol,0.2,19,0.6
+382,FUP79241N2,10,Male,6.0,Maori,Gen,GP Referral,Paul Cook,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,17,0.5
+383,VWO98190Y0,70,Female,9.0,Indian,Gen,Internal,Betty Johnson,1231243004,High pressure POAG,780636007,Timolol,0.2,20,0.4
+384,XWU51872M6,2,Male,1.0,European,Optometrist,GP Referral,Robert Addiego,1231243004,High pressure POAG,780636007,Timolol,0.2,17,0.3
+385,LPF31608R5,29,Female,10.0,European,Gen,Optometrist,Sherry Cox,1231243004,High pressure POAG,409276006,Betaxolol,0.2,20,0.8
+386,PPS48390C1,92,Female,9.0,European,Gen,Optometrist,Carolyn White,1231243004,High pressure POAG,409276006,Betaxolol,0.2,18,0.3
+387,UHG83069W4,67,Male,2.0,European,Gen,GP Referral,Eric Williams,1231243004,High pressure POAG,778547001,Brimonidine,0.2,19,0.7
+388,SPJ88584L4,76,Female,9.0,European,Gen,GP Referral,Shari Tomas,1231243004,High pressure POAG,778547001,Brimonidine,0.2,19,0.4
+389,ZFG58917W6,65,Female,7.0,European,Gen,Internal,Stella Corkill,1231243004,High pressure POAG,780636007,Timolol,0.2,20,0.2
+390,YRO59972Y6,14,Female,8.0,European,Gen,Internal,Whitney Matthews,1231243004,High pressure POAG,409276006,Betaxolol,0.2,18,1.0
+391,JIU54356M6,86,Female,9.0,European,Gen,Specialist Rooms,Charlene Chiles,1231243004,High pressure POAG,418934007,Levobunolol,0.2,20,0.7
+392,WMS29541C3,58,Female,6.0,Maori,Gen,Internal,Tanya Hilton,1231243004,High pressure POAG,129492005,Bimatoprost,0.2,20,0.6
+393,TLX63969V9,59,Male,8.0,European,Gen,Other DHB,Richard Blais,1231243004,High pressure POAG,780636007,Timolol,0.2,19,0.3
+394,JQH28884E3,22,Male,9.0,Maori,Gen,Self Referral,Robert Pavlas,1231243004,High pressure POAG,418934007,Levobunolol,0.2,21,0.4
+395,VJF23969R3,9,Male,8.0,European,Optometrist,Plunket,Juan Griffin,1231243004,High pressure POAG,778547001,Brimonidine,0.2,20,0.7
+396,DVQ62808K9,24,Male,9.0,Other,Gen,Internal,Ricardo Jewels,1231243004,High pressure POAG,129493000,Travoprost,0.2,21,0.5
+397,HQD69669U9,91,Female,5.0,European,Nurse,Optometrist,Doris Castile,1231243004,High pressure POAG,778547001,Brimonidine,0.2,21,1.0
+398,HBB19384X7,54,Male,7.0,European,Gen,Optometrist,Charles Weddle,1231243004,High pressure POAG,778547001,Brimonidine,0.2,19,1.0
+399,JPS98290C0,53,Male,8.0,European,Gen,Internal,Christopher York,1231243004,High pressure POAG,386926002,Latanoprost,0.2,20,0.2
+400,XQJ27541L3,3,Female,10.0,European,Gen,Other DHB,Monica Millspaugh,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.5
+401,JRI15372P7,66,Male,5.0,European,Gen,Other DHB,Weldon Hansen,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.5
+402,IQF19969R7,60,Male,7.0,Maori,Gen,Internal,John Wardell,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.5
+403,JFY62584S9,57,Female,5.0,European,Gen,GP Referral,Florence Carey,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.5
+404,DDR27617H3,4,Female,7.0,European,Optometrist,GP Referral,Carolyn Mendoza,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.2
+405,JZC89508A4,83,Male,5.0,European,Gen,Internal,Manuel Patel,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.8
+406,LZB17708X7,55,Male,8.0,European,Gen,GP Referral,Dustin Booth,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.6
+407,ILD13090U7,24,Male,8.0,Maori,Gen,Optometrist,Corey Law,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.8
+408,SIR01469H8,62,Female,4.0,European,Gen,Internal,Kathleen Bradley,1231243004,High pressure POAG,785427001,Combigan,0.3,17,0.6
+409,CPD18108U7,69,Male,6.0,Maori,Nurse,Optometrist,Milton Priolean,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,18,0.2
+410,YWD97323U0,28,Female,9.0,European,Gen,Optometrist,Phyllis Wilson,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.8
+411,SPT82223B4,63,Female,9.0,European,Gen,Internal,Jennifer Morgan,1231243004,High pressure POAG,386926002,Latanoprost,0.3,20,0.2
+412,JNV71684T2,69,Male,9.0,European,Gen,GP Referral,Hollis Hodgson,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.3
+413,CTG64972W9,71,Male,7.0,European,Orthoptist,Optometrist,Nathaniel Phifer,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.2
+414,LLN84272Q4,34,Male,5.0,European,Gen,Internal,Jonathan Hennessy,1231243004,High pressure POAG,386926002,Latanoprost,0.3,20,0.8
+415,UQR46584H1,80,Female,7.0,European,Injection,Optometrist,Cindy Morrison,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.4
+416,SST95623B0,63,Female,6.0,European,Orthoptist,Optometrist,Wilma Thurgood,1231243004,High pressure POAG,386926002,Latanoprost,0.3,22,1.0
+417,HTY12241S7,91,Male,5.0,European,Gen,GP Referral,Neil Conrad,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,1.0
+418,ZCL80972D4,72,Female,7.0,Indian,Gen,Internal,Edith Frye,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.5
+419,LBN58608Q6,78,Male,4.0,European,Gen,Other Referral Source,James Mccleary,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.5
+420,RMF71941R2,52,Male,5.0,European,Gen,GP Referral,Kevin Joiner,1231243004,High pressure POAG,778547001,Brimonidine,0.3,21,0.4
+421,XIW46435G1,1,Female,9.0,European,Gen,GP Referral,Susan Nolin,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.4
+422,STJ27608L3,90,Male,10.0,European,Laser,Optometrist,Boyd Rohman,1231243004,High pressure POAG,386926002,Latanoprost,0.3,18,0.2
+423,CPX93841V0,85,Female,7.0,European,Gen,Internal,Cynthia Smith,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.4
+424,MCZ47884F1,93,Female,2.0,European,Injection,Optometrist,Kathy Gladney,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.6
+425,SIB38484X5,59,Female,3.0,European,Gen,Optometrist,Dorothy Mills,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.4
+426,XSV37490T5,71,Male,10.0,European,Gen,Optometrist,William Seaton,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.3
+427,HVR27517H3,56,Female,9.0,European,Gen,Internal,Maria Neal,1231243004,High pressure POAG,386926002,Latanoprost,0.3,20,0.2
+428,HHV91056T0,74,Male,5.0,European,Gen,GP Referral,Tony Harmon,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.8
+429,FYB84841X4,58,Male,1.0,European,Optometrist,Internal,Dale Aitken,1231243004,High pressure POAG,780636007,Timolol,0.3,18,1.0
+430,JMF63217R9,84,Female,7.0,Maori,Optometrist,Internal,Theresa Northup,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.7
+431,ZGY99590S0,61,Female,9.0,European,Gen,GP Referral,Laura Hayden,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.5
+432,DXT18808B7,60,Male,9.0,European,Gen,GP Referral,Christopher Perkins,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.4
+433,UQL35556D5,66,Male,7.0,European,Gen,Internal,Ray Miller,1231243004,High pressure POAG,780636007,Timolol,0.3,18,1.0
+434,LXL29723D3,67,Female,9.0,European,Gen,Internal,Anna Calvert,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.3
+435,WRN54408Q6,82,Female,8.0,European,Gen,Optometrist,Bonnie Anderson,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.7
+436,FWE02090Z8,15,Female,8.0,European,Minor_ops,Optometrist,Ellen Gonzalez,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.5
+437,ULJ61717L9,85,Female,7.0,European,Nurse,Optometrist,Lacy Frost,1231243004,High pressure POAG,386926002,Latanoprost,0.3,21,0.8
+438,ZOU05072M8,87,Female,7.0,European,Nurse,Optometrist,Charmaine Black,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.9
+439,PJM05017J8,45,Female,10.0,Pasifika,Optometrist,Internal,Carrie Mccloud,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.8
+440,ZEN35508Q5,83,Female,2.0,European,Laser,Internal,Carla Alvarado,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,0.6
+441,LDM75890J2,73,Female,7.0,European,Gen,Optometrist,Queen Baker,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.5
+442,WRW36135G5,65,Female,8.0,European,Gen,GP Referral,Adeline Heidelberg,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.6
+443,TXU01317M8,80,Male,7.0,European,Gen,Optometrist,Walter Borchers,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.9
+444,WZN72117Q2,26,Female,2.0,European,Gen,Optometrist,Linda Kittelson,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.8
+445,RTN54956Q6,62,Female,6.0,Maori,Optometrist,GP Referral,Yesenia Elliott,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.9
+446,CMS69672C9,58,Female,8.0,European,Nurse,Other DHB,Hilda Dann,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.2
+447,XNJ33756L5,81,Female,10.0,European,Nurse,GP Referral,Amy Border,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.7
+448,HJC98208A0,83,Male,10.0,European,Gen,Other DHB,Daniel Eddins,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.8
+449,UWV06108T8,37,Male,4.0,European,Gen,Other Referral Source,Richard Bock,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.4
+450,SEF24269R3,74,Male,9.0,European,Gen,Internal,Thomas Mendez,1231243004,High pressure POAG,409276006,Betaxolol,0.3,22,0.2
+451,IJL29769D3,93,Female,2.0,European,Gen,Optometrist,Angela Funderburk,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,1.0
+452,CYT94990B0,71,Female,8.0,European,Gen,Optometrist,Doreen Jordan,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.7
+453,PUC20356A3,67,Male,9.0,European,Optometrist,Optometrist,Allan Shannon,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.9
+454,WTD61917U9,90,Female,10.0,European,Gen,Optometrist,Kathryn Stuber,1231243004,High pressure POAG,785427001,Combigan,0.3,18,0.2
+455,TDT01072B8,55,Male,9.0,Maori,Gen,Other DHB,Armando Givens,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.5
+456,DFM00684J8,62,Male,2.0,European,Gen,Internal,Max Greer,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.9
+457,HVI47517P1,45,Male,8.0,Maori,Gen,GP Referral,Rick Hinton,1231243004,High pressure POAG,780636007,Timolol,0.3,21,1.0
+458,JZG45972W1,94,Female,8.0,European,Optometrist,Internal,Mary Olmos,1231243004,High pressure POAG,409276006,Betaxolol,0.3,21,0.6
+459,WUO88056Y4,82,Female,8.0,European,Gen,Optometrist,Mary Lee,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.6
+460,SFJ86808L4,53,Female,6.0,European,Gen,Internal,Dorothy Sande,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.6
+461,VMW02456G8,11,Female,8.0,European,Optometrist,GP Referral,Carmen Dupree,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.6
+462,LQJ62408L9,32,Female,9.0,European,Gen,Emergency Department,Erin Hutcherson,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,21,0.2
+463,FUZ55784F6,46,Male,2.0,Other Asian,Gen,Optometrist,Benjamin Kelly,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,1.0
+464,TMM24984J3,31,Female,9.0,European,Gen,Internal,Felica Chavers,1231243004,High pressure POAG,129493000,Travoprost,0.3,18,0.8
+465,LVM30690J5,32,Female,9.0,Maori,Optometrist,Internal,Shannon Richardson,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.9
+466,SOT77141B2,46,Female,10.0,Maori,Gen,Internal,Jennie Greenhaw,1231243004,High pressure POAG,780636007,Timolol,0.3,17,0.4
+467,PUD99317U0,45,Male,3.0,Other,Gen,Internal,Keith Davin,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,1.0
+468,JZB55756X6,35,Male,9.0,Pasifika,Gen,GP Referral,Jed Lacy,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.9
+469,UUU72417M2,23,Female,1.0,European,Gen,Internal,Alecia Nelson,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.8
+470,RPU35035M5,58,Male,6.0,European,Gen,GP Referral,Jeremy Harvey,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,1.0
+471,GFW34308G5,3,Female,10.0,Maori,Optometrist,GP Referral,Amanda Wiker,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.5
+472,SJZ56641F6,67,Female,5.0,European,Gen,Internal,Patricia Diller,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.4
+473,HUM27123J3,75,Male,8.0,Maori,Gen,Internal,Brett Bruyere,1231243004,High pressure POAG,785427001,Combigan,0.3,21,0.9
+474,SSM45523J1,38,Female,7.0,European,Gen,Internal,Carrie Knowles,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.2
+475,LIL33390D5,79,Male,6.0,European,Gen,Optometrist,Bill Amigon,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.7
+476,HZB05590X8,67,Female,10.0,Maori,Gen,Other DHB,Felecia Salamanca,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.8
+477,XNI05972P8,0,Male,6.0,European,Gen,GP Referral,Roger Xie,1231243004,High pressure POAG,129493000,Travoprost,0.3,22,0.8
+478,FFE95484Z0,65,Male,6.0,Chinese,Optometrist,GP Referral,Frank Holt,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.7
+479,DSE27517Z3,5,Male,3.0,Maori,Gen,Internal,Louis Martinez,1231243004,High pressure POAG,386926002,Latanoprost,0.3,21,0.3
+480,FEG11456W7,60,Female,8.0,Other Asian,Gen,Internal,Maria Verley,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.5
+481,WZH66856E9,56,Female,10.0,Maori,Gen,Optometrist,Lissette Lake,1231243004,High pressure POAG,386926002,Latanoprost,0.3,18,0.5
+482,PSQ84417K4,26,Male,1.0,European,Gen,Optometrist,James Walker,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,1.0
+483,HPB89856X4,80,Female,7.0,European,Gen,Optometrist,Judith Mcmath,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.9
+484,WUV77690T2,49,Female,9.0,European,Gen,Optometrist,Viola Martin,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.3
+485,PIP21769N3,64,Female,8.0,European,Gen,GP Referral,Lois Bean,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,1.0
+486,DGM34069J5,4,Male,7.0,European,Optometrist,Plunket,William Mccallum,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.7
+487,DLZ25617F3,11,Female,4.0,Other Asian,Gen,Optometrist,Paula Sowers,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.4
+488,ZOX36617V5,75,Male,2.0,European,Gen,Specialist Rooms,Kenneth Sykes,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.5
+489,TGO74841Y2,55,Female,10.0,Maori,Gen,Internal,Melinda Tomlinson,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,17,0.7
+490,LWS75756C2,70,Female,8.0,European,Gen,GP Referral,Barbara Clinton,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.4
+491,LYN26417Q3,58,Male,7.0,European,Gen,Internal,Gordon Littlefield,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.2
+492,IGJ26941L3,66,Male,2.0,European,Optometrist,GP Referral,Richard Gray,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.5
+493,JBM46490J1,70,Female,8.0,Other Asian,Gen,GP Referral,Shirley Smith,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.7
+494,LBN18108Q7,92,Female,8.0,European,Gen,Internal,Ruby Cruz,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.3
+495,HRV93872T0,90,Female,6.0,European,Optometrist,GP Referral,Lindsey Mccarroll,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.3
+496,JGT41608B1,74,Female,7.0,European,Gen,Optometrist,Lillian Amos,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.2
+497,CEP16608N7,75,Female,10.0,Maori,Gen,Internal,Hedy Hall,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.8
+498,ZJH56790E6,54,Female,9.0,Maori,Gen,Other DHB,Nancy Velasco,1231243004,High pressure POAG,785427001,Combigan,0.3,18,0.9
+499,WUT49023B1,78,Male,5.0,European,Gen,Optometrist,Philip Bryant,1231243004,High pressure POAG,780636007,Timolol,0.3,19,1.0
+500,WZV19041T7,81,Female,4.0,European,Gen,Specialist Rooms,Clara Rivero,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.7
+501,ZXT81341B4,77,Female,7.0,European,Gen,Optometrist,Lillian Berrier,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.5
+502,LWF13935R7,55,Male,5.0,European,Gen,Optometrist,Bruce Davis,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.4
+503,VND58808U6,10,Male,6.0,Maori,Gen,GP Referral,Eugene Alicea,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.5
+504,HDG40984W1,67,Female,9.0,Maori,Gen,GP Referral,Paula Vidot,1231243004,High pressure POAG,129493000,Travoprost,0.3,18,0.5
+505,UUX28772V3,66,Male,8.0,Chinese,Gen,GP Referral,Ron Ray,1231243004,High pressure POAG,386926002,Latanoprost,0.3,21,0.3
+506,XZJ38490L5,0,Male,2.0,Indian,Gen,GP Referral,Salvatore Radin,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.9
+507,VUS56823C6,5,Male,10.0,Maori,Optometrist,GP Referral,Rodney Levesque,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.2
+508,ISO19935Y7,73,Female,8.0,European,Gen,GP Referral,Evelyn Somerville,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.5
+509,HGR62435H9,23,Female,9.0,European,Gen,Optometrist,Roslyn Aguilar,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.4
+510,PPW24941G3,71,Male,5.0,Other,Gen,Optometrist,Jerry Green,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,1.0
+511,LLM89517J4,87,Female,8.0,European,Gen,Specialist Rooms,Betty Mckinney,1231243004,High pressure POAG,386926002,Latanoprost,0.3,18,1.0
+512,PUY84272S4,80,Male,4.0,European,Optometrist,Internal,Robert Emert,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.4
+513,LOP04223N8,32,Female,7.0,European,Gen,Internal,Daniella Tennant,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.3
+514,USG31808W5,25,Male,9.0,Maori,Gen,Optometrist,Michael Voelker,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,1.0
+515,XRX61184V9,4,Male,9.0,European,Gen,Plunket,Eugene Smith,1231243004,High pressure POAG,409276006,Betaxolol,0.3,22,0.2
+516,LBE88235Z4,55,Male,5.0,European,Gen,Optometrist,Willis Smith,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.8
+517,TDH38656E5,47,Male,6.0,European,Gen,GP Referral,Erick Spieth,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.5
+518,LRJ60184L9,69,Male,8.0,European,Gen,GP Referral,Thomas Zieba,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.7
+519,HPJ79108L2,61,Female,10.0,Maori,Gen,Internal,Victoria Yoo,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.8
+520,DVP84356N4,3,Female,8.0,European,Orthoptist,GP Referral,Suzanna Shaw,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.2
+521,XRO68256Y9,3,Female,4.0,European,Optometrist,Plunket,Carol Johnson,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.9
+522,JBX04135V8,68,Female,6.0,European,Gen,GP Referral,Megan Patton,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.6
+523,JUF56956R6,90,Male,8.0,European,Gen,Internal,Victor Cleveland,1231243004,High pressure POAG,409276006,Betaxolol,0.3,18,0.4
+524,HYG30823W5,84,Female,10.0,European,Gen,Optometrist,Melinda Arra,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.7
+525,DIP79184N2,2,Female,7.0,Indian,Gen,GP Referral,Megan Willmann,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.9
+526,ILZ04108F8,84,Female,7.0,Other Asian,Gen,Internal,Angela Hellard,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.5
+527,NJR91569H0,18,Male,10.0,Maori,Gen,Specialist Rooms,Harold Reale,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,0.2
+528,LZE29656Z3,44,Female,8.0,European,Gen,Internal,Judy Lee,1231243004,High pressure POAG,778547001,Brimonidine,0.3,22,0.2
+529,YEM75072J2,6,Female,9.0,European,Orthoptist,Optometrist,Cassie Martinez,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,21,0.4
+530,HVS59290C6,68,Female,6.0,European,Gen,Optometrist,Tracy Bills,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.2
+531,SIY47508S1,63,Female,8.0,European,Gen,Internal,Helen Mckinley,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.2
+532,REU76541M2,16,Male,9.0,Maori,Gen,Internal,Sean Parker,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.4
+533,TJD66608U9,63,Female,2.0,European,Gen,Optometrist,Aida Beshears,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.5
+534,ZUR21341H3,84,Female,8.0,European,Laser,Internal,Susan Cornejo,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.4
+535,LOG81684W4,80,Female,3.0,European,Nurse,Internal,Isabelle Hunt,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.2
+536,LPL20856D3,48,Male,1.0,European,Gen,Internal,Sam Primeaux,1231243004,High pressure POAG,409276006,Betaxolol,0.3,21,0.4
+537,PSO09272Y8,41,Male,8.0,European,Gen,GP Referral,Walter Wold,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.5
+538,PWD98323U0,68,Male,9.0,European,Gen,Self Referral,Arthur Delperdang,1231243004,High pressure POAG,386926002,Latanoprost,0.3,21,1.0
+539,JDL44972D1,87,Male,3.0,European,Gen,Optometrist,Brian Ornelas,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.4
+540,XCV19590T7,6,Female,6.0,European,Orthoptist,GP Referral,Karen Allen,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.4
+541,RRT80108B4,51,Male,8.0,European,Gen,Internal,Dennis Rodriguez,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,21,0.2
+542,UNN19417Q7,30,Female,3.0,European,Minor_ops,GP Referral,Faye Stephenson,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.4
+543,PRC60356A9,61,Female,6.0,European,Gen,Optometrist,Ashley Thomas,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.2
+544,JTS64684C9,60,Male,4.0,Other,Gen,GP Referral,Shawn Willis,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.5
+545,IYV18056T7,49,Female,9.0,European,Gen,Other DHB,Shirley Barbre,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,1.0
+546,LWL37172D5,89,Female,8.0,European,Gen,Optometrist,Sharon Guinn,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.3
+547,VIU28384M3,33,Male,8.0,Indian,Gen,GP Referral,Todd Smith,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.9
+548,VGW15272G7,3,Female,8.0,Maori,Orthoptist,GP Referral,Sara Roman,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.9
+549,TMG89417W4,65,Female,7.0,European,Gen,Internal,Sheila Strong,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.6
+550,ZRP75956N2,84,Male,8.0,European,Optometrist,Internal,Chase Sutera,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.7
+551,FLB63469X9,13,Male,7.0,European,Gen,Internal,Jonathan Brady,1231243004,High pressure POAG,785427001,Combigan,0.3,21,0.4
+552,UIT65756B9,23,Male,6.0,Maori,Gen,Other DHB,Steven Lance,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.2
+553,UXH12156E7,66,Male,1.0,European,Injection,Other DHB,Lawrence Price,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.3
+554,WSQ38584K5,78,Female,4.0,European,Gen,Optometrist,Ashley Trimble,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.3
+555,LTM94684J0,64,Male,9.0,European,Laser,Optometrist,Percy Johnson,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.6
+556,CMQ06869K8,78,Female,8.0,European,Gen,Self Referral,Nora Garrison,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.8
+557,TSO61741Y9,55,Male,10.0,European,Gen,Internal,Stephen Campbell,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,0.7
+558,SLL63290D9,71,Female,8.0,Maori,Nurse,Optometrist,Chris Harris,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.2
+559,YUI80435P4,12,Female,10.0,Maori,Gen,GP Referral,Ashley Silvas,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.9
+560,LGU56284M6,82,Female,5.0,European,Gen,Internal,Deborah Melanson,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.4
+561,VUV98369T0,70,Male,7.0,European,Orthoptist,Optometrist,Richard Patton,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.2
+562,FDF09441R8,36,Female,4.0,Indian,Gen,GP Referral,Karen Le,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.3
+563,HOX24969V3,73,Male,6.0,European,Gen,Internal,William Tran,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,1.0
+564,VHT24690B3,57,Female,1.0,Indian,Gen,Optometrist,Mary King,1231243004,High pressure POAG,386926002,Latanoprost,0.3,18,0.9
+565,ZJE42490Z1,85,Male,4.0,European,Gen,Optometrist,Jermaine Mills,1231243004,High pressure POAG,409276006,Betaxolol,0.3,18,0.4
+566,BPS98741C0,0,Male,10.0,European,Gen,GP Referral,Mark Shelton,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.7
+567,JIV22069T3,87,Female,9.0,European,Gen,Specialist Rooms,Frances Farness,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.5
+568,JED86335U4,63,Male,6.0,European,Gen,GP Referral,Mark Caswell,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.7
+569,PJX82608V4,43,Male,7.0,European,Gen,GP Referral,Curtis Postley,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.8
+570,DMO27872Y3,2,Female,5.0,European,Optometrist,Plunket,Victoria Hoffman,1231243004,High pressure POAG,780636007,Timolol,0.3,20,1.0
+571,WJM08669J8,69,Female,9.0,European,Gen,GP Referral,Mary Orr,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.8
+572,ZHY43469S1,52,Male,1.0,European,Gen,Optometrist,Carroll Reed,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.7
+573,XMJ40508L1,32,Female,7.0,European,Gen,Optometrist,Catherine Bronn,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.7
+574,ZTZ97156F0,41,Male,9.0,Maori,Gen,GP Referral,Alvaro Powell,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.3
+575,GNQ67017K9,2,Male,10.0,Indian,Orthoptist,Plunket,Alfred Parker,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,1.0
+576,HTT21156B3,56,Female,9.0,Pasifika,Injection,Optometrist,Angela Rossignol,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.5
+577,PEM26235J3,54,Male,9.0,Other Asian,Gen,Other Referral Source,Christopher Arnold,1231243004,High pressure POAG,418934007,Levobunolol,0.3,22,0.2
+578,NQL81969D4,85,Female,9.0,Other Asian,Gen,Internal,Deborah Nosal,1231243004,High pressure POAG,778547001,Brimonidine,0.3,18,0.5
+579,SXR94441H0,65,Female,8.0,European,Gen,Optometrist,Debbie Harris,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.2
+580,YWZ85956F4,44,Female,2.0,European,Gen,Internal,Laurie Ly,1231243004,High pressure POAG,409276006,Betaxolol,0.3,18,0.8
+581,SNC27969A3,53,Female,5.0,Maori,Gen,Internal,Ruth Goodwin,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.7
+582,DBJ58072L6,7,Female,8.0,Maori,Orthoptist,Plunket,Belinda March,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.6
+583,JEC12169A7,75,Female,8.0,European,Gen,Other Referral Source,Ines Dunigan,1231243004,High pressure POAG,780636007,Timolol,0.3,19,1.0
+584,PHR70356H2,44,Male,4.0,European,Gen,Optometrist,Juan Kirby,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,1.0
+585,FOC09569A8,30,Male,6.0,Other,Gen,Other Referral Source,William Schellermann,1231243004,High pressure POAG,409276006,Betaxolol,0.3,21,0.5
+586,LTV57808T6,27,Male,2.0,European,Gen,Internal,James Eck,1231243004,High pressure POAG,386926002,Latanoprost,0.3,21,0.4
+587,VUQ10456K7,11,Female,8.0,Maori,Optometrist,Other Referral Source,Marsha Mueller,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.9
+588,SZW97708G0,88,Male,2.0,European,Nurse,Optometrist,John Wisniewski,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.9
+589,DQI39617P5,8,Male,7.0,Maori,Orthoptist,Plunket,Kasey Mease,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.9
+590,SVG13084W7,65,Female,7.0,European,Gen,Optometrist,Meredith Knapp,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,1.0
+591,LQP50641N6,48,Female,5.0,Maori,Gen,GP Referral,Sandra Fazzino,1231243004,High pressure POAG,418934007,Levobunolol,0.3,21,0.7
+592,RHL46041D1,75,Male,9.0,Maori,Gen,Specialist Rooms,Mark Yu,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.8
+593,HJD98708U0,70,Female,8.0,European,Gen,Optometrist,Leeann Munden,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.3
+594,HFC60323A9,44,Female,9.0,Maori,Gen,Internal,Lorraine Donaldson,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.2
+595,IOS41623C1,24,Male,7.0,European,Gen,Internal,Bobby Martin,1231243004,High pressure POAG,785427001,Combigan,0.3,21,0.7
+596,MRW98917G0,2,Female,2.0,Maori,Gen,Internal,Vanessa Reasoner,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.9
+597,HQY50384S6,68,Male,9.0,European,Gen,Optometrist,Raymond Komp,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.5
+598,CTV80290T4,83,Female,8.0,European,Gen,Optometrist,Kendra Warren,1231243004,High pressure POAG,785427001,Combigan,0.3,18,0.5
+599,XIY11584S7,0,Male,8.0,Maori,Orthoptist,Plunket,Gerald Settle,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,21,0.3
+600,RMZ20341F3,79,Male,8.0,European,Gen,GP Referral,Gordon Seitz,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.8
+601,BCI78856P2,2,Female,9.0,European,Orthoptist,GP Referral,Eileen Ramos,1231243004,High pressure POAG,785427001,Combigan,0.3,19,0.7
+602,LOF02117R8,63,Male,10.0,European,Injection,GP Referral,Joseph Vang,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.4
+603,LMD94184U0,75,Male,8.0,European,Gen,GP Referral,Clint Parker,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.8
+604,WNR17890H7,66,Male,9.0,Maori,Optometrist,Internal,James Urbanski,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.2
+605,SUS16656C7,83,Female,1.0,European,Gen,GP Referral,Jenny Stover,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,21,0.7
+606,IJL59884D6,72,Male,8.0,European,Gen,GP Referral,Frank Busch,1231243004,High pressure POAG,129493000,Travoprost,0.3,19,0.8
+607,LVJ25035L3,63,Female,2.0,European,Gen,Internal,Mary Martin,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.8
+608,SVZ32990F5,86,Female,1.0,European,Gen,Specialist Rooms,Holly Negron,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.9
+609,TPC64435A9,63,Female,8.0,European,Gen,Optometrist,Mary Vick,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,18,0.4
+610,ZZG34384W5,77,Female,8.0,Chinese,Gen,Internal,Stephanie Shapiro,1231243004,High pressure POAG,129493000,Travoprost,0.3,22,0.7
+611,FLJ16890L7,20,Male,4.0,European,Gen,Optometrist,John Beegle,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,19,0.9
+612,SUL94669D0,38,Male,9.0,Maori,Orthoptist,GP Referral,Oscar Jones,1231243004,High pressure POAG,386926002,Latanoprost,0.3,19,0.9
+613,PWE04969Z8,74,Male,8.0,Maori,Optometrist,Internal,Jacob Stone,1231243004,High pressure POAG,778547001,Brimonidine,0.3,18,0.2
+614,DOZ30890F5,3,Male,7.0,European,Optometrist,GP Referral,Jeffrey Lowe,1231243004,High pressure POAG,780636007,Timolol,0.3,20,1.0
+615,UHH56784E6,82,Female,7.0,European,Injection,Optometrist,Winona Davis,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.7
+616,WUL30541D5,69,Male,10.0,Maori,Gen,Optometrist,Adrian Brown,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.9
+617,DBG40969W1,6,Male,10.0,Maori,Orthoptist,Internal,Jesse Sylvester,1231243004,High pressure POAG,778547001,Brimonidine,0.3,19,0.4
+618,SZQ08617K8,40,Male,10.0,European,Gen,Other Referral Source,Ernest Fanter,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,0.2
+619,RPQ15708K7,25,Female,9.0,Pasifika,Gen,GP Referral,Veda Fontenot,1231243004,High pressure POAG,785427001,Combigan,0.3,18,0.7
+620,IRZ69641F9,42,Male,8.0,Maori,Gen,Optometrist,Melvin Sanpedro,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.5
+621,NPF54556R6,56,Male,2.0,Other Asian,Gen,Internal,John Randolph,1231243004,High pressure POAG,129493000,Travoprost,0.3,17,1.0
+622,PPY27572S3,61,Male,8.0,Pasifika,Gen,Optometrist,Ricky Hoefling,1231243004,High pressure POAG,129493000,Travoprost,0.3,21,0.7
+623,INU38484M5,20,Female,2.0,European,Gen,GP Referral,Susan Chittum,1231243004,High pressure POAG,780636007,Timolol,0.3,17,1.0
+624,HVI75617P2,60,Female,2.0,European,Gen,Optometrist,Celesta Cashin,1231243004,High pressure POAG,386926002,Latanoprost,0.3,20,1.0
+625,MCS23872C3,21,Male,9.0,European,Gen,Optometrist,Ronald Rowley,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.2
+626,WTH22923E3,88,Female,2.0,European,Gen,Optometrist,Marilyn Lucas,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.3
+627,XHZ37423F5,76,Male,9.0,Other Asian,Gen,Internal,William Toppa,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.2
+628,ZZW26217G3,81,Male,1.0,European,Gen,Internal,Arthur Randolph,1231243004,High pressure POAG,418934007,Levobunolol,0.3,18,0.5
+629,SVJ53641L6,89,Female,1.0,European,Gen,Self Referral,Zelma Lloyd,1231243004,High pressure POAG,785427001,Combigan,0.3,20,0.3
+630,PPC19723A7,28,Male,8.0,European,Gen,GP Referral,Don Moore,1231243004,High pressure POAG,386926002,Latanoprost,0.3,20,0.4
+631,TXG65335W9,86,Female,7.0,European,Gen,Internal,Margaret Farrell,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.7
+632,HSY69190S9,88,Male,9.0,European,Gen,Optometrist,Ronald Parpan,1231243004,High pressure POAG,386926002,Latanoprost,0.3,18,0.8
+633,HQS36023C5,92,Male,10.0,European,Gen,Internal,Edward Johnson,1231243004,High pressure POAG,780636007,Timolol,0.3,21,0.3
+634,TDS96123C0,31,Male,10.0,Pasifika,Gen,Internal,Marc Ammerman,1231243004,High pressure POAG,780636007,Timolol,0.3,19,1.0
+635,GQI74672P2,2,Female,4.0,European,Orthoptist,GP Referral,Jody Swem,1231243004,High pressure POAG,780636007,Timolol,0.3,21,0.2
+636,VRT55172B6,9,Female,10.0,European,Optometrist,Optometrist,Brenda Lee,1231243004,High pressure POAG,780636007,Timolol,0.3,19,0.8
+637,WJC99941A0,57,Male,9.0,European,Gen,GP Referral,Charles Keating,1231243004,High pressure POAG,386926002,Latanoprost,0.3,22,0.4
+638,RBQ01484K8,24,Male,10.0,European,Gen,Internal,Eugene Leonard,1231243004,High pressure POAG,409276006,Betaxolol,0.3,19,0.9
+639,ZTM66572J9,74,Female,6.0,Indian,Gen,Specialist Rooms,Dorothy Oller,1231243004,High pressure POAG,129493000,Travoprost,0.3,20,0.5
+640,HZO87256Y4,58,Male,1.0,European,Gen,Optometrist,John Briones,1231243004,High pressure POAG,780636007,Timolol,0.3,21,0.5
+641,HOZ42817F1,86,Female,8.0,European,Gen,Specialist Rooms,Sarah Sheck,1231243004,High pressure POAG,418934007,Levobunolol,0.3,20,0.3
+642,HTS55772C6,25,Female,8.0,European,Orthoptist,Other Referral Source,Laura White,1231243004,High pressure POAG,778547001,Brimonidine,0.3,20,0.9
+643,YSM26284J3,44,Female,7.0,European,Gen,GP Referral,Lane Rather,1231243004,High pressure POAG,780636007,Timolol,0.3,18,0.7
+644,HHM24308J3,75,Female,10.0,European,Gen,Optometrist,Virginia Miller,1231243004,High pressure POAG,409276006,Betaxolol,0.3,18,1.0
+645,YNU26717M3,14,Male,7.0,European,Gen,GP Referral,Eric Hendrie,1231243004,High pressure POAG,409276006,Betaxolol,0.3,18,0.4
+646,ZCQ83923K4,87,Female,1.0,European,Nurse,Optometrist,Cindy Fischer,1231243004,High pressure POAG,780636007,Timolol,0.3,20,0.6
+647,HXY86441S4,57,Male,8.0,European,Optometrist,GP Referral,David Sterling,1231243004,High pressure POAG,418934007,Levobunolol,0.3,19,0.9
+648,JOL46390D1,65,Female,6.0,European,Gen,Optometrist,Hattie Jones,1231243004,High pressure POAG,409276006,Betaxolol,0.3,20,0.8
+649,ZEG31735W5,54,Male,8.0,Maori,Gen,Internal,Alan Pittman,1231243004,High pressure POAG,129492005,Bimatoprost,0.3,20,0.5
+650,PUF85223R4,85,Female,5.0,European,Gen,Internal,Rosa Wallace,1231243004,High pressure POAG,409276006,Betaxolol,0.4,20,0.8
+651,HEN10972Q7,47,Male,2.0,Maori,Gen,Internal,Ferdinand Mason,1231243004,High pressure POAG,418934007,Levobunolol,0.4,18,0.6
+652,YJX80935V4,16,Female,8.0,European,Gen,Optometrist,Terri Hofmann,1231243004,High pressure POAG,386926002,Latanoprost,0.4,19,0.3
+653,GCD52356U6,2,Male,10.0,Maori,Gen,GP Referral,Frank Snider,1231243004,High pressure POAG,129493000,Travoprost,0.4,20,0.2
+654,PIO91517Y0,66,Male,2.0,European,Injection,Specialist Rooms,Jason Raderstorf,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,19,0.6
+655,HPG71690W2,85,Male,8.0,European,Injection,GP Referral,Julius Hernandez,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,19,0.5
+656,HEL34390D5,65,Male,8.0,European,Nurse,Optometrist,Dominique Mcmichael,1231243004,High pressure POAG,780636007,Timolol,0.4,19,0.2
+657,DIM74972J2,2,Female,10.0,Pasifika,Gen,Emergency Department,Dianne Cantrell,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,0.9
+658,PWX61308V9,77,Male,8.0,European,Gen,Specialist Rooms,Benjamin Foster,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,1.0
+659,SDX86908V4,61,Female,5.0,European,Gen,Internal,Doris Lee,1231243004,High pressure POAG,418934007,Levobunolol,0.4,20,0.4
+660,DRV39123T5,3,Female,8.0,European,Gen,GP Referral,Dianna Zerhusen,1231243004,High pressure POAG,129493000,Travoprost,0.4,18,0.4
+661,PUN21523Q3,91,Male,6.0,European,Gen,Optometrist,Donald Meder,1231243004,High pressure POAG,129493000,Travoprost,0.4,22,0.4
+662,TBO70523Y2,66,Female,7.0,European,Gen,GP Referral,Melanie Leblanc,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,21,0.7
+663,LIE01372Z8,37,Male,9.0,European,Gen,GP Referral,Warren Higgins,1231243004,High pressure POAG,129493000,Travoprost,0.4,19,0.3
+664,XPL70290D2,2,Female,7.0,European,Gen,GP Referral,Vicki Ryder,1231243004,High pressure POAG,778547001,Brimonidine,0.4,20,0.3
+665,ZDJ91035L0,31,Male,9.0,Maori,Gen,Optometrist,Thomas Pearson,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,18,0.4
+666,XPJ19435L7,5,Female,10.0,Pasifika,Gen,GP Referral,Irene Littlefield,1231243004,High pressure POAG,778547001,Brimonidine,0.4,20,1.0
+667,DJD95917U0,0,Male,10.0,Maori,Gen,Internal,Russell Scherer,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,19,0.9
+668,YXJ00769L8,46,Female,10.0,European,Gen,Optometrist,Edith Wellman,1231243004,High pressure POAG,780636007,Timolol,0.4,20,0.2
+669,MCF46723R1,88,Male,9.0,European,Gen,Optometrist,Joshua Camacho,1231243004,High pressure POAG,780636007,Timolol,0.4,21,0.5
+670,LEO21569Y3,84,Male,6.0,European,Optometrist,Internal,Gerald Flanigan,1231243004,High pressure POAG,409276006,Betaxolol,0.4,18,0.6
+671,ZIT60323B9,59,Female,6.0,European,Gen,Internal,Helen Miller,1231243004,High pressure POAG,386926002,Latanoprost,0.4,19,0.6
+672,JIO87990Y4,85,Male,8.0,European,Gen,Internal,Donald Hafenstein,1231243004,High pressure POAG,780636007,Timolol,0.4,20,0.4
+673,LFS40156C1,65,Female,8.0,Maori,Gen,Specialist Rooms,Cecile Hovermale,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,0.5
+674,WRZ44969F1,71,Female,10.0,Pasifika,Gen,GP Referral,Annie Terhune,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,0.8
+675,UDO97108Y0,58,Male,2.0,European,Gen,Optometrist,Tyler Buck,1231243004,High pressure POAG,409276006,Betaxolol,0.4,20,0.8
+676,SFD45023U1,28,Male,8.0,Maori,Gen,Optometrist,Vincent Farmer,1231243004,High pressure POAG,780636007,Timolol,0.4,19,1.0
+677,CPT83690B4,41,Male,3.0,European,Gen,Internal,Jeremy Nabors,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,20,1.0
+678,ZJV67769T9,74,Female,9.0,European,Gen,GP Referral,Nellie Berry,1231243004,High pressure POAG,386926002,Latanoprost,0.4,20,0.9
+679,XEU80372M4,4,Female,10.0,Pasifika,Gen,GP Referral,Lisa Riley,1231243004,High pressure POAG,778547001,Brimonidine,0.4,18,0.8
+680,FQL78369D2,84,Male,1.0,Chinese,Gen,Optometrist,Nathaniel Johnson,1231243004,High pressure POAG,386926002,Latanoprost,0.4,17,0.7
+681,ZJQ50923K6,29,Male,4.0,Maori,Gen,Optometrist,Jose Bieber,1231243004,High pressure POAG,418934007,Levobunolol,0.4,18,0.6
+682,JXE50735Z6,70,Male,5.0,European,Optometrist,Internal,Lewis Sisson,1231243004,High pressure POAG,386926002,Latanoprost,0.4,21,0.2
+683,VUB04735X8,12,Female,5.0,European,Gen,Optometrist,Jamie Armstrong,1231243004,High pressure POAG,129493000,Travoprost,0.4,19,1.0
+684,NCP58369N6,80,Male,2.0,European,Nurse,Optometrist,Sidney Barcus,1231243004,High pressure POAG,129493000,Travoprost,0.4,21,0.9
+685,RHZ18672F7,28,Male,9.0,European,Gen,GP Referral,Donald Bilodeau,1231243004,High pressure POAG,129493000,Travoprost,0.4,21,0.9
+686,GHF89769R4,3,Male,5.0,European,Gen,GP Referral,Ezequiel Fenster,1231243004,High pressure POAG,386926002,Latanoprost,0.4,19,0.9
+687,VWW79390G2,12,Female,4.0,European,Gen,Other DHB,Rachael Anderson,1231243004,High pressure POAG,409276006,Betaxolol,0.4,20,1.0
+688,HEG49156W1,35,Female,8.0,Maori,Gen,GP Referral,Andrea Fosmire,1231243004,High pressure POAG,418934007,Levobunolol,0.4,20,0.6
+689,ZDJ85641L4,68,Female,8.0,European,Gen,Optometrist,Jacqueline Sokol,1231243004,High pressure POAG,780636007,Timolol,0.4,20,0.9
+690,ZJC62241A9,45,Male,4.0,European,Gen,Optometrist,Mike Diego,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,0.6
+691,JCT27569B3,83,Male,6.0,Other,Gen,Other Referral Source,John Adkins,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,0.4
+692,FDS54184C6,13,Male,2.0,European,Optometrist,Internal,Allan Fisher,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,1.0
+693,LSQ10041K7,80,Male,8.0,European,Nurse,Optometrist,Clinton Martin,1231243004,High pressure POAG,778547001,Brimonidine,0.4,19,0.6
+694,JLO27369Y3,70,Female,5.0,European,Gen,Optometrist,Allyson Romero,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,0.5
+695,YYY33590S5,14,Female,5.0,European,Gen,GP Referral,Katherine Johnson,1231243004,High pressure POAG,785427001,Combigan,0.4,19,0.7
+696,JNZ72041F2,19,Male,9.0,Maori,Gen,GP Referral,Ruben Byers,1231243004,High pressure POAG,386926002,Latanoprost,0.4,20,0.4
+697,URT32423B5,19,Male,9.0,European,Gen,GP Referral,James Taylor,1231243004,High pressure POAG,386926002,Latanoprost,0.4,21,0.7
+698,ZSU63584M9,76,Female,9.0,European,Laser,Internal,Mary Hellman,1231243004,High pressure POAG,785427001,Combigan,0.4,20,0.2
+699,YOC74323A2,37,Male,9.0,Pasifika,Gen,GP Referral,Dennis Hegwood,1231243004,High pressure POAG,418934007,Levobunolol,0.4,20,0.6
+700,LOT46008B1,76,Female,7.0,European,Gen,Optometrist,Donna Cruz,1231243004,High pressure POAG,778547001,Brimonidine,0.4,21,0.7
+701,CLI57490P6,75,Female,6.0,European,Gen,Specialist Rooms,Eloise Varga,1231243004,High pressure POAG,785427001,Combigan,0.4,20,0.8
+702,PCV79923T2,73,Male,4.0,European,Gen,GP Referral,Kelvin Donaldson,1231243004,High pressure POAG,386926002,Latanoprost,0.4,21,0.5
+703,JWL43072D1,68,Female,2.0,European,Gen,GP Referral,Eliza Mitchell,1231243004,High pressure POAG,785427001,Combigan,0.4,20,0.9
+704,WZW67856G9,31,Male,9.0,Maori,Gen,Optometrist,Jacob Turpin,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,0.6
+705,JMC46735A1,22,Male,1.0,European,Gen,Other DHB,Benjamin Brown,1231243004,High pressure POAG,129493000,Travoprost,0.4,19,0.9
+706,FHJ44741L1,20,Female,10.0,European,Minor_ops,GP Referral,Tamara Irvin,1231243004,High pressure POAG,785427001,Combigan,0.4,19,0.9
+707,NWL44972D1,68,Male,5.0,European,Gen,Optometrist,Salvador Murff,1231243004,High pressure POAG,785427001,Combigan,0.4,19,0.6
+708,WRE15169Z7,45,Male,10.0,European,Gen,Optometrist,Kyle Rissell,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,1.0
+709,GHU16808M7,0,Male,4.0,European,Gen,Internal,Dennis Solomon,1231243004,High pressure POAG,785427001,Combigan,0.4,21,0.4
+710,WMT94584B0,49,Female,10.0,Maori,Nurse,Internal,Elisha Wilburn,1231243004,High pressure POAG,785427001,Combigan,0.4,18,0.4
+711,JDF73384R2,79,Female,10.0,European,Gen,Optometrist,April Johnson,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,1.0
+712,ZVG29784W3,73,Female,8.0,European,Gen,Optometrist,Phyllis Lunt,1231243004,High pressure POAG,778547001,Brimonidine,0.4,20,0.7
+713,JZF49708R1,84,Female,1.0,European,Gen,Specialist Rooms,Kathleen Chrisman,1231243004,High pressure POAG,409276006,Betaxolol,0.4,18,0.6
+714,LGR10184H7,52,Male,2.0,Other,Gen,GP Referral,Donald Bontrager,1231243004,High pressure POAG,778547001,Brimonidine,0.4,20,0.5
+715,HRM35623J5,59,Female,9.0,European,Gen,GP Referral,Bernice Roberts,1231243004,High pressure POAG,386926002,Latanoprost,0.4,18,0.5
+716,FTY32984S5,20,Female,6.0,Maori,Gen,Optometrist,Mary Rievley,1231243004,High pressure POAG,778547001,Brimonidine,0.4,19,1.0
+717,SNG56456W6,76,Female,10.0,European,Gen,Internal,Andrea Rivero,1231243004,High pressure POAG,409276006,Betaxolol,0.4,19,0.5
+718,VIB33135X5,44,Male,3.0,European,Gen,GP Referral,Gary Schultz,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,21,0.7
+719,CLO97835Y0,71,Female,8.0,European,Nurse,Optometrist,Mary Henderson,1231243004,High pressure POAG,785427001,Combigan,0.4,19,0.5
+720,LCH51317E6,65,Female,7.0,European,Gen,Specialist Rooms,Janis Spence,1231243004,High pressure POAG,780636007,Timolol,0.4,20,0.5
+721,UER54217H6,86,Female,5.0,European,Gen,Optometrist,Ruth Lesley,1231243004,High pressure POAG,785427001,Combigan,0.4,21,0.6
+722,DHP89735N4,75,Male,7.0,European,Gen,GP Referral,Wesley Payne,1231243004,High pressure POAG,409276006,Betaxolol,0.4,18,0.8
+723,JPN31523Q5,94,Male,7.0,European,Gen,Optometrist,Eugene Ugalde,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,19,0.5
+724,ZTO69608Y9,67,Male,8.0,European,Gen,GP Referral,Mathew Clark,1231243004,High pressure POAG,129493000,Travoprost,0.4,18,0.6
+725,PGG49984W1,76,Male,9.0,European,Minor_ops,Internal,Milton Esparza,1231243004,High pressure POAG,129493000,Travoprost,0.4,19,0.7
+726,VTL73690D2,12,Female,6.0,Other Asian,Optometrist,Other DHB,Virginia Coppage,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,0.7
+727,PWC32508A5,91,Female,8.0,European,Gen,Optometrist,Bertha Madeiros,1231243004,High pressure POAG,778547001,Brimonidine,0.4,20,0.8
+728,UHO66741Y9,81,Female,8.0,European,Nurse,Internal,Florence Marsh,1231243004,High pressure POAG,386926002,Latanoprost,0.4,20,0.6
+729,ZYJ12772L7,73,Male,9.0,European,Gen,Optometrist,Douglas Beck,1231243004,High pressure POAG,780636007,Timolol,0.4,19,0.7
+730,VMW85608G4,76,Female,3.0,European,Gen,GP Referral,Jennifer Boggs,1231243004,High pressure POAG,409276006,Betaxolol,0.4,20,0.2
+731,LHX96541V0,49,Female,9.0,European,Gen,Optometrist,Kathleen Hamilton,1231243004,High pressure POAG,780636007,Timolol,0.4,18,1.0
+732,YGF87584R4,64,Male,9.0,European,Minor_ops,Internal,Jose Lopez,1231243004,High pressure POAG,778547001,Brimonidine,0.4,21,0.5
+733,SQI36717P5,54,Female,3.0,European,Minor_ops,Other DHB,Lorena Colen,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,19,0.4
+734,WLS01190C8,67,Female,6.0,European,Gen,Optometrist,Virginia Morris,1231243004,High pressure POAG,129493000,Travoprost,0.4,20,0.8
+735,NUG39869W5,24,Female,6.0,Other,Gen,Optometrist,Michelle Tongue,1231243004,High pressure POAG,418934007,Levobunolol,0.4,19,0.7
+736,PIQ47184K1,53,Male,8.0,Other,Gen,GP Referral,Robert Deslauriers,1231243004,High pressure POAG,129493000,Travoprost,0.4,19,0.6
+737,SEV99841T0,51,Female,10.0,Maori,Gen,Internal,Linda Gonzalez,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,20,0.4
+738,ZON23335Q3,40,Female,2.0,European,Gen,Optometrist,Mildred Maxwell,1231243004,High pressure POAG,409276006,Betaxolol,0.4,18,0.3
+739,CUV28290T3,85,Male,6.0,European,Gen,Other DHB,Frank Thurber,1231243004,High pressure POAG,409276006,Betaxolol,0.4,20,0.4
+740,HBP82241N4,80,Male,10.0,European,Gen,Other Referral Source,Adrian Bobo,1231243004,High pressure POAG,418934007,Levobunolol,0.4,20,1.0
+741,DMU29741M3,3,Male,7.0,European,Orthoptist,Plunket,Paul Manus,1231243004,High pressure POAG,386926002,Latanoprost,0.4,20,1.0
+742,WJO84472Y4,55,Male,5.0,European,Gen,Optometrist,Theodore Felix,1231243004,High pressure POAG,778547001,Brimonidine,0.4,19,0.2
+743,ZBR71872H2,96,Female,9.0,European,Injection,Specialist Rooms,Guadalupe Bertrand,1231243004,High pressure POAG,780636007,Timolol,0.4,18,0.4
+744,HGU90456M0,91,Male,8.0,European,Gen,Optometrist,Darrell Womack,1231243004,High pressure POAG,418934007,Levobunolol,0.4,20,1.0
+745,HWL88723D4,81,Female,10.0,European,Gen,GP Referral,Anna Merritt,1231243004,High pressure POAG,129493000,Travoprost,0.4,20,0.5
+746,CCV53635T6,37,Female,6.0,Maori,Gen,Internal,Cynthia Spencer,1231243004,High pressure POAG,785427001,Combigan,0.4,20,0.3
+747,UQO72756Y2,72,Male,8.0,European,Gen,GP Referral,Francis Valentin,1231243004,High pressure POAG,129492005,Bimatoprost,0.4,20,0.9
+748,GEC71935A2,1,Male,9.0,Maori,Orthoptist,GP Referral,Steve Bilderback,1231243004,High pressure POAG,778547001,Brimonidine,0.4,21,0.5
+749,LWL35608D5,50,Female,7.0,Maori,Gen,Optometrist,Virginia Lowery,1231243004,High pressure POAG,386926002,Latanoprost,0.4,22,0.7
+750,GZP45808N1,4,Female,10.0,Maori,Gen,GP Referral,Maritza Swanner,788995007,Normal pressure POAG,785427001,Combigan,0.5,15,0.6
+751,UDD94490U0,81,Male,6.0,European,Gen,Optometrist,Harley Stout,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,15,0.2
+752,ULM36390J5,93,Female,3.0,European,Gen,Optometrist,Bonita Priest,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,15,0.9
+753,SGU65617M9,81,Male,10.0,European,Gen,Other DHB,Tommie Seiter,788995007,Normal pressure POAG,129493000,Travoprost,0.5,15,0.2
+754,ZTH40790E1,73,Female,6.0,European,Laser,Optometrist,Katherine Graham,788995007,Normal pressure POAG,778547001,Brimonidine,0.5,16,0.4
+755,SJP82990N4,31,Female,5.0,European,Gen,Optometrist,Jeanette White,788995007,Normal pressure POAG,129492005,Bimatoprost,0.5,16,0.9
+756,LJH89023E4,50,Male,9.0,Maori,Gen,Optometrist,Randy James,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,14,0.4
+757,WHL46008D1,42,Female,8.0,Maori,Gen,Internal,Sara Patel,788995007,Normal pressure POAG,785427001,Combigan,0.5,16,0.6
+758,UIN58890Q6,96,Female,8.0,European,Gen,Internal,Liza Houck,788995007,Normal pressure POAG,780636007,Timolol,0.5,15,0.2
+759,HPQ55523K6,65,Male,6.0,Maori,Gen,Other DHB,Franklin Hollingsworth,788995007,Normal pressure POAG,780636007,Timolol,0.5,17,1.0
+760,LZB47617X1,85,Female,9.0,European,Nurse,Optometrist,Natalie Mccann,788995007,Normal pressure POAG,785427001,Combigan,0.5,16,0.5
+761,LCZ03990F8,34,Female,5.0,European,Gen,Optometrist,Deborah Walker,788995007,Normal pressure POAG,785427001,Combigan,0.5,16,0.7
+762,UGJ06772L8,68,Male,4.0,European,Gen,Optometrist,William Malekan,788995007,Normal pressure POAG,129492005,Bimatoprost,0.5,15,1.0
+763,VPV46808T1,12,Male,8.0,European,Gen,Internal,Eric Kamp,788995007,Normal pressure POAG,780636007,Timolol,0.5,18,0.7
+764,PUU66684M9,24,Male,9.0,European,Gen,GP Referral,Guy Smith,788995007,Normal pressure POAG,785427001,Combigan,0.5,15,0.6
+765,WMI84484P4,92,Female,5.0,European,Gen,Optometrist,Marlen Kee,788995007,Normal pressure POAG,386926002,Latanoprost,0.5,18,0.7
+766,LMO28117Y3,43,Male,8.0,Maori,Gen,Internal,James Chesnut,788995007,Normal pressure POAG,780636007,Timolol,0.5,14,0.9
+767,GXB70969X2,1,Female,7.0,Maori,Orthoptist,Plunket,Anna Barbara,788995007,Normal pressure POAG,129493000,Travoprost,0.5,16,0.5
+768,VUS56717C6,13,Female,10.0,Chinese,Gen,Internal,Ola Kelty,788995007,Normal pressure POAG,129493000,Travoprost,0.5,16,0.6
+769,HNM78784J2,63,Male,5.0,Maori,Gen,GP Referral,Paul Miller,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,16,0.2
+770,HYS33341C5,32,Female,8.0,European,Gen,Optometrist,Catherine Moon,788995007,Normal pressure POAG,129493000,Travoprost,0.5,15,1.0
+771,HHP14817N7,94,Male,3.0,European,Gen,Self Referral,Kenneth Wilkerson,788995007,Normal pressure POAG,780636007,Timolol,0.5,17,0.8
+772,LTT76441B2,67,Male,10.0,Maori,Gen,Internal,Anthony Phelps,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,18,0.9
+773,DFL37235D5,3,Male,5.0,European,Optometrist,Plunket,Christopher Martinez,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,16,0.8
+774,LWE12090Z7,58,Female,7.0,European,Gen,Optometrist,Pat Christion,788995007,Normal pressure POAG,386926002,Latanoprost,0.5,16,0.2
+775,TSS56708C6,75,Female,8.0,European,Gen,Internal,Tasha Simpson,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,15,0.7
+776,HFE72072Z2,71,Female,10.0,European,Minor_ops,Optometrist,Marie Myatt,788995007,Normal pressure POAG,129492005,Bimatoprost,0.5,16,0.9
+777,TIE92269Z0,67,Female,9.0,Maori,Gen,GP Referral,Katrina Green,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,15,1.0
+778,SXW52717G6,56,Female,8.0,European,Gen,GP Referral,Maria Holt,788995007,Normal pressure POAG,785427001,Combigan,0.5,16,0.3
+779,XFQ21469K3,5,Female,7.0,European,Orthoptist,Internal,Martha Smith,788995007,Normal pressure POAG,386926002,Latanoprost,0.5,17,0.7
+780,PCF60172R9,79,Male,4.0,European,Gen,Internal,Joseph Aliff,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,17,0.6
+781,STH23790E3,70,Male,5.0,European,Gen,Other DHB,Timothy Torres,788995007,Normal pressure POAG,778547001,Brimonidine,0.5,15,1.0
+782,LXE75617Z2,48,Female,8.0,Maori,Minor_ops,GP Referral,Asuncion Bowers,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,16,0.8
+783,LMW31435G5,35,Female,8.0,Maori,Gen,GP Referral,Rebecca Navarro,788995007,Normal pressure POAG,778547001,Brimonidine,0.5,14,0.8
+784,ZRM77423J2,26,Male,10.0,Maori,Gen,Internal,Marcus Grubbs,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,14,0.4
+785,PIN02535Q8,85,Female,8.0,European,Gen,Optometrist,Jo White,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,16,0.2
+786,VQG27756W3,9,Female,4.0,European,Optometrist,GP Referral,Heidi Alonso,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,16,0.5
+787,HVJ85117L4,54,Female,8.0,European,Gen,Internal,Roberta Cruz,788995007,Normal pressure POAG,129493000,Travoprost,0.5,15,0.8
+788,YJD83784U4,11,Male,9.0,Maori,Gen,Optometrist,Dwight Liedke,788995007,Normal pressure POAG,778547001,Brimonidine,0.5,17,1.0
+789,SPG53569W6,67,Female,7.0,Maori,Laser,Optometrist,Jodi Robinson,788995007,Normal pressure POAG,129492005,Bimatoprost,0.5,14,0.8
+790,XQM67569J9,43,Female,1.0,Chinese,Gen,GP Referral,Pennie Davis,788995007,Normal pressure POAG,129493000,Travoprost,0.5,17,0.6
+791,WZL91041D0,84,Male,3.0,Maori,Nurse,Optometrist,Juan Tolbert,788995007,Normal pressure POAG,386926002,Latanoprost,0.5,16,0.7
+792,ZHO99341Y0,85,Male,9.0,European,Gen,Optometrist,Daniel Paniagua,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,15,0.6
+793,JHH83323E4,68,Female,10.0,European,Gen,Optometrist,Kathleen Lock,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,16,0.4
+794,JBB81917X4,26,Male,8.0,European,Gen,Internal,Rodrick Westcott,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,12,0.9
+795,XRT00569B8,3,Male,10.0,Maori,Gen,GP Referral,Douglas Alam,788995007,Normal pressure POAG,785427001,Combigan,0.5,17,0.9
+796,UOB29908X3,80,Female,8.0,European,Gen,Internal,Nadine Halcomb,788995007,Normal pressure POAG,780636007,Timolol,0.5,15,0.7
+797,ZBI71217P2,69,Male,3.0,Maori,Gen,Optometrist,Owen Hass,788995007,Normal pressure POAG,409276006,Betaxolol,0.5,15,1.0
+798,LDY60623S9,39,Male,9.0,Maori,Gen,Optometrist,Bruce White,788995007,Normal pressure POAG,418934007,Levobunolol,0.5,15,0.5
+799,CBL91184D0,61,Female,3.0,European,Gen,Optometrist,Brenda Maldonado,788995007,Normal pressure POAG,129492005,Bimatoprost,0.5,15,0.3
+800,NUS20790C3,81,Female,10.0,Maori,Nurse,GP Referral,Ella Sellers,788946007,Glaucoma due to eye inflammation,129492005,Bimatoprost,0.6,15,0.4
+801,URN18484Q7,69,Male,8.0,Maori,Gen,Optometrist,Jason Dunaway,314033007,Uveitic glaucoma,129493000,Travoprost,0.6,16,0.9
+802,FTY49723S1,76,Female,1.0,European,Gen,Optometrist,Paula Steelman,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.6,17,0.2
+803,ZQV25969T3,99,Female,10.0,European,Gen,Optometrist,Anette Cruz,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.6,16,0.3
+804,CDC00584A8,67,Male,9.0,Other,Gen,Optometrist,Ignacio Roane,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.6,16,0.7
+805,UTI26817P3,42,Female,4.0,European,Gen,Optometrist,Nathalie Stringer,314033007,Uveitic glaucoma,409276006,Betaxolol,0.6,15,0.8
+806,JIB81684X4,52,Male,2.0,European,Gen,GP Referral,Henry Hamilton,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.6,17,0.2
+807,JTR99790H0,62,Male,8.0,Pasifika,Gen,Internal,John Balch,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,0.6,17,1.0
+808,CYP65384N9,46,Female,6.0,European,Gen,Internal,April Giller,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.6,16,0.8
+809,IWX42717V1,54,Male,5.0,Pasifika,Gen,Internal,Bobby Miller,314033007,Uveitic glaucoma,780636007,Timolol,0.6,16,0.9
+810,WRQ83508K4,30,Female,9.0,Maori,Gen,Internal,Estelle Perez,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.6,15,0.5
+811,LMB74484X2,70,Male,6.0,European,Optometrist,Internal,Robert Dipietro,29538005,Glaucomatocyclitic crisis,785427001,Combigan,0.6,16,0.6
+812,JVY77190S2,70,Female,9.0,European,Gen,Specialist Rooms,Mildred Davis,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,0.6,16,0.2
+813,ZUP63490N9,76,Male,4.0,European,Gen,Optometrist,Richard Cowie,314033007,Uveitic glaucoma,785427001,Combigan,0.6,16,0.4
+814,IUP38023N5,23,Female,9.0,Maori,Gen,Optometrist,Gloria Downey,37155002,Glaucoma assoc. ocular inflam...,418934007,Levobunolol,0.6,16,0.3
+815,CPD12441U7,63,Female,9.0,European,Gen,Optometrist,Patsy Wark,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,0.6,16,0.5
+816,DML01523D8,6,Female,2.0,European,Optometrist,GP Referral,Carroll Weidler,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,0.6,17,0.3
+817,TYD97856U0,65,Female,8.0,European,Gen,Other DHB,Elaine Clemente,314033007,Uveitic glaucoma,785427001,Combigan,0.6,16,1.0
+818,HLL98369D0,55,Female,8.0,European,Gen,GP Referral,Lisa Picken,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.6,15,0.5
+819,HGE12017Z7,61,Male,8.0,Maori,Gen,Optometrist,Emmanuel Vannoy,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.6,15,0.6
+820,ZWI07690P8,88,Female,7.0,European,Gen,Specialist Rooms,Laurel Jethva,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.6,14,0.6
+821,YBZ28441F3,7,Male,8.0,Maori,Gen,Optometrist,Gregory Wofford,314033007,Uveitic glaucoma,778547001,Brimonidine,0.6,15,0.9
+822,WCD02241U8,55,Male,4.0,Indian,Gen,Internal,James Stuble,37155002,Glaucoma assoc. ocular inflam...,129493000,Travoprost,0.6,17,0.5
+823,PCI87672P4,53,Male,10.0,European,Gen,GP Referral,Joshua Twogood,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,0.6,16,0.4
+824,TMG40641W1,75,Male,10.0,Maori,Gen,Internal,Adam Steenken,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,0.6,15,0.9
+825,XBP73790N2,77,Female,7.0,European,Gen,Internal,Cheryl Kline,314033007,Uveitic glaucoma,418934007,Levobunolol,0.6,14,0.6
+826,NPU61908M9,65,Male,10.0,Maori,Gen,Optometrist,Miles Nguyen,37155002,Glaucoma assoc. ocular inflam...,778547001,Brimonidine,0.6,16,0.8
+827,TBO73769Y2,77,Male,6.0,European,Laser,Optometrist,Wilbur Radebaugh,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.6,16,1.0
+828,LZR87484H4,54,Female,1.0,European,Gen,Optometrist,Phyllis Massiah,788946007,Glaucoma due to eye inflammation,129492005,Bimatoprost,0.6,16,1.0
+829,XZO62935Y9,2,Female,7.0,Maori,Gen,Internal,Thelma Center,314033007,Uveitic glaucoma,780636007,Timolol,0.6,14,0.3
+830,PUU58290M6,19,Female,4.0,European,Gen,Optometrist,Christine Blamer,37155002,Glaucoma assoc. ocular inflam...,129492005,Bimatoprost,0.7,16,0.8
+831,DPL72172D2,29,Female,7.0,European,Gen,Optometrist,Elfrieda Bodden,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.7,14,0.7
+832,DQD03123U8,41,Female,5.0,Chinese,Gen,Internal,Laurie Barreto,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.7,16,0.2
+833,LML08908D8,44,Male,7.0,Other,Gen,GP Referral,Vincent Symons,314033007,Uveitic glaucoma,129492005,Bimatoprost,0.7,16,0.4
+834,LMP16241N7,53,Female,4.0,European,Gen,GP Referral,Tammy Hart,37155002,Glaucoma assoc. ocular inflam...,778547001,Brimonidine,0.7,17,0.9
+835,PRS47169C1,92,Male,6.0,European,Gen,Internal,Raymond Chavez,29538005,Glaucomatocyclitic crisis,409276006,Betaxolol,0.7,16,0.9
+836,HLL02372D8,71,Female,5.0,European,Gen,Specialist Rooms,Eva Smith,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.7,16,0.3
+837,NRF18008R7,77,Male,8.0,European,Gen,Optometrist,Henry Suarez,314033007,Uveitic glaucoma,129492005,Bimatoprost,0.7,16,0.4
+838,HCD92672U0,90,Male,8.0,European,Gen,Internal,Peter Piatek,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,0.7,16,0.7
+839,LSF81769R4,62,Female,7.0,European,Gen,GP Referral,Jennifer Acklin,29538005,Glaucomatocyclitic crisis,409276006,Betaxolol,0.7,15,0.6
+840,HMF11323R7,38,Female,10.0,European,Minor_ops,GP Referral,Holly Stier,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,0.7,15,0.3
+841,CDY43869S1,90,Female,8.0,European,Gen,Internal,Mae Williams,314033007,Uveitic glaucoma,409276006,Betaxolol,0.7,16,0.9
+842,DGT89941B4,7,Male,8.0,Maori,Gen,GP Referral,Lou Patron,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,0.7,15,1.0
+843,YNV87223T4,71,Female,4.0,European,Nurse,GP Referral,Patricia Vogel,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.7,17,0.6
+844,JQV09808T8,69,Female,6.0,European,Gen,Optometrist,Ella Wheeler,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.7,18,0.6
+845,JQY49669S1,73,Female,7.0,European,Gen,GP Referral,Monika Bruner,314033007,Uveitic glaucoma,409276006,Betaxolol,0.7,16,1.0
+846,DPN90969Q0,45,Male,10.0,Pasifika,Gen,Self Referral,Michael Clifford,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.7,16,1.0
+847,HJV60656T9,64,Male,6.0,Chinese,Gen,Internal,Robert Denton,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,0.7,16,0.3
+848,LHJ44708L1,33,Female,6.0,European,Minor_ops,Optometrist,Violet Coffelt,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,0.7,15,0.7
+849,CYJ22008L3,53,Female,6.0,European,Gen,GP Referral,Jennifer Gigliotti,314033007,Uveitic glaucoma,409276006,Betaxolol,0.7,16,0.5
+850,URL55335D6,40,Male,5.0,European,Gen,GP Referral,Jamie Madhavan,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.8,15,0.7
+851,WIR23672H3,64,Male,5.0,European,Gen,GP Referral,Eric Grasser,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.9,15,0.4
+852,LIV36984T5,48,Female,8.0,European,Laser,Internal,Lara Goldstein,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,1.0,16,0.6
+853,PUO63941Y9,70,Female,5.0,European,Gen,Internal,Maximina Dunn,314033007,Uveitic glaucoma,386926002,Latanoprost,0.8,16,0.3
+854,HSD86308U4,93,Female,8.0,European,Laser,Optometrist,Ora Gilliam,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,0.9,16,0.8
+855,VDZ47956F1,4,Male,9.0,European,Orthoptist,GP Referral,Robert Perry,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,1.0,14,0.3
+856,ZSV54756T6,84,Male,8.0,European,Gen,Internal,Bryan Ireland,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,0.8,15,0.5
+857,THY53023S6,65,Female,10.0,Other,Gen,GP Referral,Lucy Johnson,314033007,Uveitic glaucoma,418934007,Levobunolol,0.9,16,0.2
+858,PPP72972N2,84,Female,2.0,European,Gen,Optometrist,Helen Solarzano,37155002,Glaucoma assoc. ocular inflam...,418934007,Levobunolol,1.0,17,1.0
+859,CGQ92041K0,82,Male,10.0,European,Gen,Internal,William Hartung,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,0.8,16,0.8
+860,JQU76284M2,31,Male,10.0,Pasifika,Gen,Optometrist,Jason Amato,788946007,Glaucoma due to eye inflammation,780636007,Timolol,0.9,16,1.0
+861,LUW25717G3,39,Female,6.0,European,Gen,Internal,Jayne Mccarty,314033007,Uveitic glaucoma,778547001,Brimonidine,1.0,14,0.3
+862,JER22472H3,93,Female,7.0,European,Gen,GP Referral,Kathy Schroeter,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.8,17,0.3
+863,HPH81256E4,54,Male,9.0,European,Gen,GP Referral,Frank Fox,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,0.9,15,0.9
+864,ZCW56084G6,83,Female,9.0,European,Laser,Optometrist,Heather King,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,1.0,16,0.8
+865,SNP71608N2,75,Male,10.0,European,Gen,Internal,Robert Roghair,314033007,Uveitic glaucoma,409276006,Betaxolol,0.8,15,1.0
+866,GJY53608S6,2,Male,10.0,European,Gen,Internal,Nolan Gheen,37155002,Glaucoma assoc. ocular inflam...,129493000,Travoprost,0.9,16,1.0
+867,PWD85656U4,67,Male,3.0,European,Gen,Internal,John Allen,29538005,Glaucomatocyclitic crisis,129493000,Travoprost,1.0,15,0.5
+868,DMD43723U1,1,Female,10.0,Maori,Orthoptist,Plunket,Danielle Terrazas,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.8,16,0.6
+869,PWD73190U2,80,Female,5.0,European,Optometrist,Internal,Tara Cantu,314033007,Uveitic glaucoma,778547001,Brimonidine,0.9,14,0.3
+870,ZWM57123J6,62,Male,9.0,European,Gen,Optometrist,James Schinkel,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,1.0,14,0.3
+871,RYV28384T3,16,Female,7.0,European,Gen,Optometrist,Erin Warren,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.8,14,0.7
+872,FSY19035S7,63,Male,10.0,Maori,Gen,Other DHB,Walter Erickson,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.9,14,0.3
+873,ITL16769D7,97,Male,3.0,European,Nurse,Optometrist,Larry Kelley,314033007,Uveitic glaucoma,129493000,Travoprost,1.0,15,0.9
+874,RQC79572A2,81,Female,10.0,European,Gen,Internal,Billie Adams,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.8,17,0.5
+875,HGT18735B7,82,Female,8.0,European,Nurse,Optometrist,Alice Lewis,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.9,16,0.7
+876,JOM63369J9,80,Male,2.0,Chinese,Gen,Optometrist,Jules Maynard,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,1.0,16,1.0
+877,ZNZ33635F5,73,Female,1.0,European,Gen,Optometrist,Allison Deal,314033007,Uveitic glaucoma,409276006,Betaxolol,0.8,17,0.7
+878,LUI27872P3,75,Female,9.0,European,Nurse,Optometrist,Julia Mcguire,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.9,15,0.8
+879,HXS84084C4,80,Female,7.0,European,Gen,Specialist Rooms,Martha Huntley,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,1.0,18,1.0
+880,LPR10341H7,88,Male,8.0,European,Gen,Optometrist,Ivan Rose,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.8,16,0.6
+881,LYN15190Q7,69,Male,2.0,European,Gen,Optometrist,Jose Hicks,314033007,Uveitic glaucoma,386926002,Latanoprost,0.9,16,0.5
+882,CIO99617Y0,62,Male,8.0,Maori,Optometrist,Internal,George Roberts,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,1.0,16,0.8
+883,YXO19572Y7,13,Male,8.0,European,Gen,GP Referral,Ralph Cain,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.8,16,0.6
+884,UUX24335V3,92,Male,9.0,European,Optometrist,Internal,Nicholas Lothridge,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,0.9,16,0.5
+885,LLD00772U8,68,Female,10.0,Maori,Gen,Internal,Colette Pearson,314033007,Uveitic glaucoma,129492005,Bimatoprost,1.0,16,1.0
+886,WTQ76023K2,82,Male,9.0,European,Gen,Optometrist,James Maccormack,37155002,Glaucoma assoc. ocular inflam...,129492005,Bimatoprost,0.8,17,0.2
+887,ZNP39441N5,45,Male,3.0,Maori,Gen,Other Referral Source,Douglas Morton,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.9,15,0.2
+888,ZTE27041Z3,78,Female,8.0,European,Gen,Self Referral,Myrtle Grant,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,1.0,14,0.4
+889,PDY69090S9,66,Male,9.0,Other,Gen,GP Referral,Michael Bathe,314033007,Uveitic glaucoma,129493000,Travoprost,0.8,16,0.7
+890,WUY76490S2,55,Female,5.0,European,Gen,Other Referral Source,Zenia Williams,37155002,Glaucoma assoc. ocular inflam...,778547001,Brimonidine,0.9,16,0.3
+891,JHW97041G0,23,Female,9.0,European,Gen,GP Referral,Nina Schroeder,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,1.0,15,0.6
+892,FYS82990C4,56,Female,7.0,European,Gen,Internal,Kay Senteno,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,0.8,16,0.5
+893,UHZ00390F8,74,Female,4.0,European,Gen,GP Referral,Patricia Wilson,314033007,Uveitic glaucoma,409276006,Betaxolol,0.9,14,0.4
+894,PQZ32117F5,27,Male,10.0,Pasifika,Gen,GP Referral,Barry Hall,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,1.0,14,0.8
+895,ITH06984E8,84,Female,8.0,European,Gen,Optometrist,Miriam Oleary,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.8,15,0.3
+896,JFS86823C4,69,Female,5.0,European,Gen,GP Referral,Andrea Skinner,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.9,17,0.9
+897,GHQ46535K1,2,Male,8.0,European,Gen,GP Referral,Clarence Lyons,314033007,Uveitic glaucoma,780636007,Timolol,1.0,16,0.8
+898,LDI73890P2,64,Male,10.0,European,Gen,Optometrist,Larry Pagan,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,0.8,17,1.0
+899,DCC40523A1,55,Male,9.0,Pasifika,Gen,GP Referral,Andrew Garcia,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.9,15,0.4
+900,UTZ36441F5,85,Female,8.0,European,Gen,Internal,Phyllis Hoover,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,1.0,15,0.4
+901,YHX67869V9,16,Female,2.0,European,Gen,Internal,Jean Byrne,314033007,Uveitic glaucoma,785427001,Combigan,0.8,15,0.6
+902,MLL88272D4,51,Male,6.0,Pasifika,Gen,GP Referral,Thomas Lilley,37155002,Glaucoma assoc. ocular inflam...,129492005,Bimatoprost,0.9,16,0.9
+903,HEV93190T0,75,Male,5.0,European,Laser,Optometrist,Keith Wright,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,1.0,16,0.5
+904,HVR93717H0,60,Female,7.0,Maori,Gen,GP Referral,Carolyn Butcher,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,0.8,13,0.3
+905,PWD48735U1,75,Male,5.0,European,Gen,Optometrist,Raymond Carrillo,314033007,Uveitic glaucoma,386926002,Latanoprost,0.9,14,0.6
+906,PPR74590H2,58,Male,7.0,European,Gen,Self Referral,Domingo Sonnier,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,1.0,14,0.3
+907,WQE58284Z6,69,Male,1.0,European,Gen,Optometrist,John Donelson,29538005,Glaucomatocyclitic crisis,409276006,Betaxolol,0.8,17,0.2
+908,ZYO37372Y5,42,Female,6.0,Maori,Gen,GP Referral,Debra Allen,788946007,Glaucoma due to eye inflammation,409276006,Betaxolol,0.9,15,1.0
+909,DRL25823D3,55,Male,5.0,European,Gen,GP Referral,Randall Delarosa,314033007,Uveitic glaucoma,129492005,Bimatoprost,1.0,16,0.7
+910,HNB88372X4,87,Male,10.0,European,Gen,GP Referral,Johnny Trahern,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,0.8,15,0.4
+911,JTO18969Y7,48,Male,9.0,European,Gen,GP Referral,Fred Okafor,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,0.9,15,1.0
+912,HOV20223T3,42,Female,9.0,Maori,Gen,Internal,Virginia Destephen,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,1.0,15,0.2
+913,DHN24056Q3,2,Female,9.0,European,Gen,GP Referral,Shirley Haynes,314033007,Uveitic glaucoma,386926002,Latanoprost,0.8,16,0.3
+914,XPT76017B2,33,Male,5.0,Chinese,Gen,GP Referral,Abel Shelton,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.9,17,0.3
+915,ING85617W4,77,Male,6.0,European,Gen,Internal,Miguel Davis,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,1.0,15,0.8
+916,TCG55508W6,36,Male,4.0,Other,Gen,Optometrist,Alejandro Morrison,788946007,Glaucoma due to eye inflammation,780636007,Timolol,0.8,14,0.2
+917,HIC92872A0,50,Female,10.0,Maori,Gen,Optometrist,Laura Newcomb,314033007,Uveitic glaucoma,778547001,Brimonidine,0.9,16,1.0
+918,HPI76323P2,56,Female,4.0,European,Gen,Self Referral,Mary Lang,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,1.0,15,0.2
+919,WTV43535T1,67,Male,10.0,Maori,Gen,Internal,Travis Conner,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.8,16,0.7
+920,ZVJ57723L6,50,Male,10.0,Maori,Gen,Internal,Anthony Main,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.9,14,0.6
+921,VWL95572D0,7,Male,5.0,European,Gen,Optometrist,Richard Belflower,314033007,Uveitic glaucoma,409276006,Betaxolol,1.0,15,1.0
+922,WHN02923Q8,71,Female,8.0,Maori,Gen,GP Referral,Kathleen Walton,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.8,15,0.9
+923,TJO91141Y0,46,Female,3.0,European,Gen,Optometrist,Yvette Winkle,29538005,Glaucomatocyclitic crisis,129493000,Travoprost,0.9,14,1.0
+924,VGL85656D4,5,Male,7.0,Maori,Gen,GP Referral,Jamal Gabbamonte,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,1.0,16,0.4
+925,YYP42084N1,51,Female,10.0,Indian,Gen,Self Referral,Lisa Ernst,314033007,Uveitic glaucoma,785427001,Combigan,0.8,16,0.5
+926,JMY39123S5,64,Female,7.0,European,Gen,GP Referral,Marian Carter,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.9,17,0.9
+927,XUP28890N3,0,Male,7.0,European,Gen,Internal,Nathan Lister,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,1.0,18,0.8
+928,HNN32541Q5,34,Male,1.0,Maori,Gen,GP Referral,Gene Creed,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.8,15,0.2
+929,ZRE47056Z1,58,Male,8.0,Maori,Optometrist,Internal,Charles Scott,314033007,Uveitic glaucoma,129492005,Bimatoprost,0.9,15,0.6
+930,JUO20517Y3,72,Female,8.0,European,Gen,Internal,Jacqueline Cessor,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,1.0,14,0.9
+931,JSL39641D5,74,Male,8.0,European,Gen,GP Referral,Richard Rogers,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,0.8,13,0.9
+932,PDW83608G4,64,Male,8.0,Maori,Gen,Internal,Stanley Baker,788946007,Glaucoma due to eye inflammation,780636007,Timolol,0.9,14,1.0
+933,ZLG64872W9,75,Female,2.0,European,Gen,Optometrist,Beth Cervantes,314033007,Uveitic glaucoma,129493000,Travoprost,1.0,15,0.3
+934,PWD99069U0,80,Male,5.0,European,Gen,Optometrist,Ray Klitz,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.8,17,0.7
+935,UQM54984J6,94,Male,8.0,European,Gen,Optometrist,Edward Havel,29538005,Glaucomatocyclitic crisis,129493000,Travoprost,0.9,17,0.4
+936,LPQ51272K6,60,Female,10.0,Maori,Gen,Other DHB,Anita Hafner,788946007,Glaucoma due to eye inflammation,129492005,Bimatoprost,1.0,18,0.6
+937,HCE97735Z0,68,Male,2.0,European,Gen,Specialist Rooms,Terry Eadie,314033007,Uveitic glaucoma,418934007,Levobunolol,0.8,16,0.5
+938,SML17790D7,38,Female,1.0,European,Gen,Optometrist,Debbie Rickman,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.9,17,0.3
+939,LMO37272Y5,48,Male,8.0,European,Gen,Internal,Carroll Kirkland,29538005,Glaucomatocyclitic crisis,785427001,Combigan,1.0,15,0.6
+940,GFW02108G8,1,Female,10.0,Maori,Gen,Internal,Carol Nguyen,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.8,15,0.3
+941,ICY51517S6,31,Female,2.0,Pasifika,Gen,Optometrist,Irene Harville,314033007,Uveitic glaucoma,386926002,Latanoprost,0.9,16,0.4
+942,VHV41472T1,59,Male,6.0,European,Gen,Self Referral,Jason Donahue,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,1.0,16,0.7
+943,SVL57908D6,29,Female,8.0,Maori,Gen,GP Referral,Susan Wedgewood,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.8,14,0.4
+944,LHF13484R7,75,Male,7.0,European,Nurse,Optometrist,Jeffrey West,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.9,16,0.3
+945,JSY23541S3,53,Male,9.0,Maori,Laser,Internal,Steven Perry,314033007,Uveitic glaucoma,129493000,Travoprost,1.0,15,1.0
+946,NCF71590R2,82,Female,9.0,European,Gen,Optometrist,Tracy Watts,37155002,Glaucoma assoc. ocular inflam...,129492005,Bimatoprost,0.8,17,0.6
+947,UGY00884S8,64,Female,8.0,European,Gen,Optometrist,Laurie Holiday,29538005,Glaucomatocyclitic crisis,780636007,Timolol,0.9,16,0.9
+948,GVR45835H1,1,Female,1.0,Indian,Optometrist,Internal,Jessica Pulver,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,1.0,17,0.7
+949,ZXF77272R2,72,Female,3.0,European,Laser,Optometrist,Melissa Fernandez,314033007,Uveitic glaucoma,386926002,Latanoprost,0.8,15,0.7
+950,JRJ75441L2,57,Male,9.0,Maori,Gen,Optometrist,Paul Foster,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.9,17,0.2
+951,JWL31072D5,72,Male,8.0,European,Gen,Optometrist,Edgar Anello,29538005,Glaucomatocyclitic crisis,785427001,Combigan,1.0,16,0.3
+952,WND44372U1,78,Female,9.0,European,Gen,GP Referral,Karen Carstens,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.8,14,0.3
+953,LSN83217Q4,87,Female,7.0,European,Optometrist,Internal,Brittany Miller,314033007,Uveitic glaucoma,778547001,Brimonidine,0.9,13,0.5
+954,IZF90090R0,80,Female,6.0,Chinese,Injection,Internal,Rachel Solis,37155002,Glaucoma assoc. ocular inflam...,129493000,Travoprost,1.0,17,1.0
+955,HQW34635G5,78,Female,9.0,European,Gen,Internal,Lisa Suarez,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,0.8,15,0.2
+956,PIP95123N0,91,Male,6.0,European,Nurse,Optometrist,Albert Heath,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.9,16,0.9
+957,ZLR23117H3,82,Female,4.0,European,Gen,Specialist Rooms,Tandy Harrison,314033007,Uveitic glaucoma,418934007,Levobunolol,1.0,16,0.3
+958,JJB10856X7,81,Male,9.0,European,Gen,Optometrist,Johnny Dion,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.8,18,0.8
+959,SCV32784T5,59,Female,9.0,European,Gen,GP Referral,Maria Sherburne,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.9,14,0.8
+960,ZHZ22156F3,70,Male,7.0,European,Gen,Optometrist,Ian Garcia,788946007,Glaucoma due to eye inflammation,780636007,Timolol,1.0,15,0.6
+961,LTL53235D6,93,Male,3.0,European,Nurse,Optometrist,Scott Watson,314033007,Uveitic glaucoma,785427001,Combigan,0.8,16,0.9
+962,XJU92056M0,46,Female,7.0,Other,Gen,GP Referral,Joyce Roberts,37155002,Glaucoma assoc. ocular inflam...,409276006,Betaxolol,0.9,16,0.5
+963,CVE07769Z8,63,Female,5.0,European,Gen,GP Referral,Patricia Shirk,29538005,Glaucomatocyclitic crisis,785427001,Combigan,1.0,16,1.0
+964,WWT24172B3,86,Male,7.0,European,Optometrist,Internal,Donald Orton,788946007,Glaucoma due to eye inflammation,780636007,Timolol,0.8,16,0.7
+965,CFD46008U1,67,Female,7.0,European,Gen,GP Referral,Carmen Jones,314033007,Uveitic glaucoma,785427001,Combigan,0.9,16,0.5
+966,XSQ19484K7,34,Male,1.0,Indian,Minor_ops,GP Referral,Michael Zupancic,37155002,Glaucoma assoc. ocular inflam...,780636007,Timolol,1.0,16,0.9
+967,RQB14184X7,27,Female,8.0,European,Gen,Optometrist,Kari Perez,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.8,16,0.3
+968,HRF30217R5,59,Female,8.0,Maori,Gen,Optometrist,Theresa Bentley,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,0.9,14,0.8
+969,RZN02490Q8,75,Male,10.0,European,Injection,Internal,Emil Anderson,314033007,Uveitic glaucoma,409276006,Betaxolol,1.0,18,0.4
+970,IFL40108D1,44,Female,8.0,European,Gen,Optometrist,Elizabeth Cox,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.8,15,1.0
+971,IUF66535R9,76,Female,4.0,European,Gen,Internal,Ashley Wilson,29538005,Glaucomatocyclitic crisis,386926002,Latanoprost,0.9,16,0.3
+972,TNS68084C9,80,Female,9.0,European,Gen,Internal,Nicole Flannery,788946007,Glaucoma due to eye inflammation,780636007,Timolol,1.0,14,0.5
+973,DCJ89872L4,3,Male,8.0,Maori,Gen,GP Referral,Robert Vang,314033007,Uveitic glaucoma,785427001,Combigan,0.8,15,0.5
+974,GHF66872R9,4,Male,5.0,European,Gen,Internal,Marc Roman,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.9,16,0.7
+975,TEQ92790K0,58,Male,10.0,Maori,Gen,Other DHB,Stephen Feazel,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,1.0,16,0.3
+976,ZGG62372W9,33,Male,8.0,European,Gen,Internal,Aubrey Johnson,788946007,Glaucoma due to eye inflammation,386926002,Latanoprost,0.8,15,0.4
+977,XJB30208X5,6,Female,7.0,Pasifika,Gen,GP Referral,Hazel Hays,314033007,Uveitic glaucoma,780636007,Timolol,0.9,16,0.9
+978,HPW36572G5,44,Male,6.0,European,Gen,Other Referral Source,Walter Watson,37155002,Glaucoma assoc. ocular inflam...,778547001,Brimonidine,1.0,16,0.7
+979,PPN20041Q3,80,Male,8.0,Other,Laser,Optometrist,Elbert May,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.8,14,0.7
+980,ZXV52708T6,37,Female,2.0,Pasifika,Gen,Optometrist,Ruby Valerio,788946007,Glaucoma due to eye inflammation,418934007,Levobunolol,0.9,16,0.6
+981,DBX77869V2,15,Female,9.0,Other Asian,Gen,Optometrist,Colleen Waggoner,314033007,Uveitic glaucoma,780636007,Timolol,1.0,15,1.0
+982,HYO10523Y7,79,Female,10.0,European,Nurse,Optometrist,Patricia Kabrick,37155002,Glaucoma assoc. ocular inflam...,386926002,Latanoprost,0.8,15,0.7
+983,WHV47784T1,92,Female,1.0,European,Gen,Internal,Linnie Pepper,29538005,Glaucomatocyclitic crisis,129493000,Travoprost,0.9,16,0.7
+984,JOO67972Y9,72,Male,3.0,European,Gen,GP Referral,Jason Osborne,788946007,Glaucoma due to eye inflammation,129493000,Travoprost,1.0,16,1.0
+985,NGC63623A9,77,Male,8.0,European,Gen,Internal,George Victoria,314033007,Uveitic glaucoma,785427001,Combigan,0.8,16,0.7
+986,PUN22669Q3,65,Male,5.0,European,Nurse,Internal,Mark Vazquez,37155002,Glaucoma assoc. ocular inflam...,418934007,Levobunolol,0.9,16,0.5
+987,SHC56617A6,77,Female,6.0,European,Gen,Optometrist,Golda Hoover,29538005,Glaucomatocyclitic crisis,409276006,Betaxolol,1.0,17,0.8
+988,ITH72008E2,48,Male,8.0,European,Gen,Other Referral Source,Charles Getz,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,0.8,16,0.4
+989,XSO14090Y7,0,Male,10.0,Pasifika,Gen,Internal,Herbert Bretz,314033007,Uveitic glaucoma,780636007,Timolol,0.9,15,0.3
+990,WHG58823W6,89,Male,8.0,European,Gen,Internal,Seth Hawkins,37155002,Glaucoma assoc. ocular inflam...,778547001,Brimonidine,1.0,16,1.0
+991,LNO34641Y5,95,Female,6.0,European,Injection,Optometrist,Susan Mckamey,29538005,Glaucomatocyclitic crisis,129492005,Bimatoprost,0.8,15,0.5
+992,YQC51323A6,12,Male,10.0,European,Gen,Optometrist,Donald Linkovich,788946007,Glaucoma due to eye inflammation,785427001,Combigan,0.9,15,0.2
+993,TBI22584P3,56,Male,6.0,European,Gen,Optometrist,Terence Byers,314033007,Uveitic glaucoma,386926002,Latanoprost,1.0,17,0.2
+994,UJB38808X5,81,Female,5.0,European,Nurse,Optometrist,Catherine Carnahan,37155002,Glaucoma assoc. ocular inflam...,785427001,Combigan,0.8,16,1.0
+995,ZHZ70156F2,40,Male,9.0,European,Gen,Internal,Eric Wohlert,29538005,Glaucomatocyclitic crisis,778547001,Brimonidine,0.9,15,0.2
+996,SIY50141S6,90,Female,4.0,European,Nurse,Specialist Rooms,Kathy Lapuerta,788946007,Glaucoma due to eye inflammation,778547001,Brimonidine,1.0,17,0.2
+997,WCT83790B4,62,Female,7.0,European,Gen,GP Referral,Maribel Lombard,314033007,Uveitic glaucoma,418934007,Levobunolol,0.8,14,0.6
+998,SEQ68169K9,76,Female,7.0,European,Nurse,Optometrist,Lori Noble,37155002,Glaucoma assoc. ocular inflam...,129493000,Travoprost,0.9,17,0.8
+999,HUT80908B4,27,Female,9.0,Maori,Gen,Emergency Department,Barbara Lanza,29538005,Glaucomatocyclitic crisis,418934007,Levobunolol,1.0,17,0.8
